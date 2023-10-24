@@ -5,6 +5,7 @@ import App from './components/App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Layout from './components/Layout';
+import EntryDetails from './components/EntryDetails';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -13,8 +14,9 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
-          <Route index element={<App />}></Route>
+        <Route path="/" Component={Layout}>
+          <Route index Component={App}></Route>
+          <Route path="entries/:id" Component={EntryDetails}  />
         </Route>
       </Routes>
     </BrowserRouter>
