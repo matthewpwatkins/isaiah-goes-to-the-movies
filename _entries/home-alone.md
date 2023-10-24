@@ -1,6 +1,6 @@
 ---
 type: movie-plot
-title: "Hoem Alone"
+title: "Home Alone"
 ---
 
 Behold, the son of iniquity, who provoketh his kindred to wrath, and desireth to be cut off from their midst. For the Lord shall give him over to his own heart's counsel, and leave him desolate in his dwelling place.
