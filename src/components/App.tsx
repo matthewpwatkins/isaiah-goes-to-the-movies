@@ -9,17 +9,17 @@ function App() {
   const [entries, setEntries] = useState<Entry[]>([]);
   const [nextEntry, setNextEntry] = useState<Entry | undefined>(undefined);
 
-  useEffect(() => {
-    const testEntries : Entry[] = [];
-    for (let i = 0; i < 50; i++) {
-      testEntries.push({
-        id: `entry-${i}`,
-        visited: i < 10
-      });
-    }
+  async function loadEntries() {
+    const res = await fetch('/entries.json');
+    const entries = await (res.json() as Promise<Entry[]>);
+    entries[0].visited = true;
+    entries[1].visited = true;
+    setEntries(entries);
+    setNextEntry(entries.find(entry => !entry.visited));
+  }
 
-    setEntries(testEntries);
-    setNextEntry(testEntries.find(entry => !entry.visited));
+  useEffect(() => {
+    loadEntries();
   }, []);
 
   return (
