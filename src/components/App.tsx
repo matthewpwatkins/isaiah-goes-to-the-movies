@@ -24,7 +24,7 @@ function App() {
 
   return (
     <>
-      {nextEntry && <Card border="secondary" className="p-3 mb-5">
+      {nextEntry && <Card border="secondary" className="p-3 mb-3">
         <h4>Next entry:</h4>
         <p>{nextEntry.id}</p>
       </Card>}

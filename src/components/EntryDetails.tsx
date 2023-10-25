@@ -4,6 +4,7 @@ import { useParams } from "react-router-dom";
 import { parse } from "yaml";
 import Entry from "../models/Entry";
 import Markdown from "react-markdown";
+import "./EntryDetails.css"
 
 function EntryDetails() {
   const { id } = useParams();
@@ -25,8 +26,10 @@ function EntryDetails() {
     loadEntry();
   }, [id]);
 
-  return <Card border="secondary" className="p-3 mb-5">
-    <Markdown>{entry?.contentMarkdown}</Markdown>
+  return <Card border="secondary" className="p-4 parchment">
+    <div className="biblical-text">
+      <Markdown>{entry?.contentMarkdown}</Markdown>
+    </div>
   </Card>;
 }
 

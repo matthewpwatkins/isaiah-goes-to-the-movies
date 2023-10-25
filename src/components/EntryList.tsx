@@ -10,7 +10,7 @@ function EntryList(props: MovieListProps) {
   return (
     <Row>
       {props.entries.map(entry => (
-        <Col key={entry.id} xs="4" md="2">
+        <Col key={entry.id}>
           <Card border="secondary" className="p-3 my-3" style={{ opacity: entry.visited ? 1 : 0.5 }}>
             <Card.Body>
               <Card.Title>{entry.id}</Card.Title>

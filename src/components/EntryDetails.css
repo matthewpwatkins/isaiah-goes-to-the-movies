@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Caudex&family=MedievalSharp&display=swap");
+
+.biblical-text {
+  counter-reset: section;
+  font-family: "Caudex", serif;
+  font-size: 1.25rem;
+  font-weight: lighter;
+}
+
+.biblical-text p:before {
+  counter-increment: section;
+  font-weight: bold;
+  font-size: 1rem;
+  color: #0e0e0e;
+  content: "" counter(section) ". ";
+}
+
+.parchment {
+  box-shadow: 2px 3px 20px black, 0 0 60px #8a4d0f inset;
+  background: #fffef0;
+}
