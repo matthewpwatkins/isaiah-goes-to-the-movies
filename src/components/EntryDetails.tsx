@@ -3,6 +3,7 @@ import { Card } from "react-bootstrap";
 import { useParams } from "react-router-dom";
 import { parse } from "yaml";
 import Entry from "../models/Entry";
+import Markdown from "react-markdown";
 
 function EntryDetails() {
   const { id } = useParams();
@@ -25,7 +26,7 @@ function EntryDetails() {
   }, [id]);
 
   return <Card border="secondary" className="p-3 mb-5">
-    <pre>{JSON.stringify(entry, undefined, '  ')}</pre>
+    <Markdown>{entry?.contentMarkdown}</Markdown>
   </Card>;
 }
 
