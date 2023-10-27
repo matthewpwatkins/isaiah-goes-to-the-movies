@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import Entry from '../models/Entry';
 import './App.css';
 import EntryList from './EntryList';
+import { entryIsVisited } from '../util/StorageManager';
 
 function App() {
   const [entries, setEntries] = useState<Entry[]>([]);
@@ -11,11 +12,9 @@ function App() {
   async function loadEntries() {
     const res = await fetch('/api/list-entries');
     const entries = await (res.json() as Promise<Entry[]>);
-    // for (const entry of entries) {
-    //   entry.visited = true;
-    // }
-    entries[0].visited = true;
-    entries[1].visited = true;
+    for (const entry of entries) {
+      entry.visited = entryIsVisited(entry.id!);
+    }
     setEntries(entries);
     setNextEntry(entries.find(entry => !entry.visited));
   }
