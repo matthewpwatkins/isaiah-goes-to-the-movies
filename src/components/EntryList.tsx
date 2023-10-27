@@ -11,7 +11,7 @@ function EntryList(props: MovieListProps) {
   return (
     <Row>
       {props.entries.map((entry) => (
-        <Col key={entry.id} xs="6" sm="4" md="3" className="p-3">
+        <Col key={entry.id} xs="4" md="3" lg="2" className="p-3">
           <Link to={`/entries/${entry.id}`}>
             <Image src={entry.img} rounded fluid  />
           </Link>
