@@ -1,16 +1,15 @@
-import { useEffect, useState } from 'react';
-import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Card } from 'react-bootstrap';
-import EntryList from './EntryList';
+import { useEffect, useState } from 'react';
 import Entry from '../models/Entry';
+import './App.css';
+import EntryList from './EntryList';
 
 function App() {
   const [entries, setEntries] = useState<Entry[]>([]);
   const [nextEntry, setNextEntry] = useState<Entry | undefined>(undefined);
 
   async function loadEntries() {
-    const res = await fetch('/entries.json');
+    const res = await fetch('/api/list-entries');
     const entries = await (res.json() as Promise<Entry[]>);
     entries[0].visited = true;
     entries[1].visited = true;

@@ -1,6 +1,7 @@
-import { Card, Col, Row } from "react-bootstrap";
+import { Col, Row } from "react-bootstrap";
+import Image from "react-bootstrap/Image";
 import Entry from "../models/Entry";
-import { LinkContainer } from "react-router-bootstrap";
+import { Link } from "react-router-dom";
 
 export interface MovieListProps {
   entries: Entry[];
@@ -9,16 +10,11 @@ export interface MovieListProps {
 function EntryList(props: MovieListProps) {
   return (
     <Row>
-      {props.entries.map(entry => (
-        <Col key={entry.id} xs="6" sm="4" md="3">
-          <Card border="secondary" className="p-3 my-3" style={{ opacity: entry.visited ? 1 : 0.5 }}>
-            <Card.Body>
-              {/* <Card.Title>{entry.id}</Card.Title> */}
-              <LinkContainer to={`/entries/${entry.id}`}>
-                <Card.Link>Go</Card.Link>
-              </LinkContainer>
-            </Card.Body>
-          </Card>
+      {props.entries.map((entry) => (
+        <Col key={entry.id} xs="6" sm="4" md="3" className="p-3">
+          <Link to={`/entries/${entry.id}`}>
+            <Image src={entry.img} rounded fluid  />
+          </Link>
         </Col>
       ))}
     </Row>

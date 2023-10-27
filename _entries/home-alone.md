@@ -1,6 +1,7 @@
 ---
 type: movie-plot
 title: Home Alone
+img: https://m.media-amazon.com/images/M/MV5BODMwOTIyOGMtYjQ3ZS00M2E3LTk3ODYtNGI0MTQzYTllZTJlXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_.jpg
 ---
 
 Behold, the son of iniquity, who provoketh his kindred to wrath, and desireth to be cut off from their midst. For the Lord shall give him over to his own heart's counsel, and leave him desolate in his dwelling place.
