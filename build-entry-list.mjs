@@ -13,7 +13,7 @@ const entries = [];
 for (const fileName of await fs.readdir(SRC_ENTRIES_FOLDER)) {
   const sourceFilePath = path.join(SRC_ENTRIES_FOLDER, fileName);
   const entryMarkdown = await fs.readFile(sourceFilePath, 'utf8');
-  const id = fileName.replace(".md", "");
+  const id = fileName.split('-')[0];
   const { img } = parseEntry(id, entryMarkdown);
   await fs.copyFile(sourceFilePath, path.join(DST_API_FOLDER, id));
   entries.push({ id, img });

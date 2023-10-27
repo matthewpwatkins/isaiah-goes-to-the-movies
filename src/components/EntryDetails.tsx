@@ -1,6 +1,6 @@
 import classNames from "classnames";
 import { useEffect, useState } from "react";
-import { Button, Card } from "react-bootstrap";
+import { Button, Card, Col, Row } from "react-bootstrap";
 import Markdown from "react-markdown";
 import { useParams } from "react-router-dom";
 import Entry from "../models/Entry";
@@ -30,26 +30,33 @@ function EntryDetails() {
   function showAnswer() {
     setAnswerIsShown(true);
     setEntryIsVisited(id!, true);
-    setTimeout(() => document.querySelector("#answer")!.scrollIntoView({ behavior: 'smooth', block: 'center' }), 250);
+    setTimeout(
+      () =>
+        document
+          .querySelector("#answer")!
+          .scrollIntoView({ behavior: "smooth", block: "center" }),
+      250
+    );
   }
 
   return (
-    <>
+    <div style={{ maxWidth: "640px", margin: "auto" }}>
       <Card border="secondary" className="p-4 parchment mb-4">
         <div className="biblical-text">
           <Markdown>{entry?.contentMarkdown}</Markdown>
         </div>
       </Card>
-    
+
       <div className={classNames("text-center", { "d-none": answerIsShown })}>
         <Button size="lg" onClick={showAnswer}>
           What's Isaiah talking about?
         </Button>
       </div>
-      <div className="text-center">
-        <Image id="answer" src={entry?.img} rounded fluid className={classNames("p-4", "mt-3", { "d-none": !answerIsShown })} style={{ maxWidth: "500px" }} />
+      <div id="answer" className={classNames("text-center", { "d-none": !answerIsShown })}>
+        <h1 className="display-1">{entry?.title}</h1>
+        <Image src={entry?.img} fluid className="rounded-start" />
       </div>
-    </>
+    </div>
   );
 }
 
