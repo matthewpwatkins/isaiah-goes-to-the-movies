@@ -1,0 +1,1 @@
+tsc ./src/util/EntryParser.ts && node ./build-entry-list.mjs
