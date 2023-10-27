@@ -13,16 +13,13 @@ function EntryList(props: MovieListProps) {
       {props.entries.map((entry) => (
         <Col key={entry.id} xs="4" md="3" lg="2" className="p-3">
           <Link to={`/entries/${entry.id}`}>
-            <Ratio aspectRatio={(40 / 27) * 100} className="rounded border border-secondary-subtle">
-              {entry.visited ? (
-                <Image
-                  src={entry.img}
-                  fluid
-                  className="object-fit-fill"
-                />
-              ) : (
-                <div className="bg-secondary"></div>
-              )}
+            <Ratio aspectRatio={(40 / 27) * 100} className="rounded border border-secondary-subtle bg-secondary">
+              <Image
+                src={entry.visited ? entry.img : "/question-mark.png"}
+                style={{ opacity: (.5 + (entry.visited ? .5 : .25)) }}
+                fluid
+                className="object-fit-fill"
+              />
             </Ratio>
           </Link>
         </Col>
