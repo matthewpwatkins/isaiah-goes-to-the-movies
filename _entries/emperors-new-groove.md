@@ -1,7 +1,7 @@
 ---
 type: movie-plot
 title: The Emperor's New Groove
-img: https://m.media-amazon.com/images/M/MV5BMjFkMzk2OWUtNjFmZC00ZTJhLTlkNGYtYjc2YWNkNmJmNzczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg
+img: https://posters.movieposterdb.com/05_08/2000/0120917/l_42394_0120917_76a25cb5.jpg
 ---
 
 There shall come a prince who regards not wisdom nor keeps counsel, but grinds the faces of the poor of my people. And for this, that oppression shall not cease from his hand, shall I the Lord afflict him, yea even his own counselors shall rise against him.

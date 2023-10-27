@@ -6,6 +6,7 @@ import { useParams } from "react-router-dom";
 import Entry from "../models/Entry";
 import { parseEntry } from "../util/EntryParser";
 import "./EntryDetails.css";
+import Image from "react-bootstrap/Image";
 
 function EntryDetails() {
   const { id } = useParams();
@@ -33,20 +34,16 @@ function EntryDetails() {
         <div className="biblical-text">
           <Markdown>{entry?.contentMarkdown}</Markdown>
         </div>
-        <div
-          className={classNames("text-center", { invisible: answerIsShown })}
-        >
+        <div className={classNames("text-center", { invisible: answerIsShown })}>
           <Button size="lg" onClick={showAnswer}>
             What's Isaiah talking about?
           </Button>
         </div>
       </Card>
-      <Card
-        border="secondary"
-        className={classNames("p-4", "mt-3", { "d-none": !answerIsShown })}
-      >
-        <h3>{entry?.title}</h3>
-      </Card>
+    
+      <div className="text-center">
+        <Image src={entry?.img} rounded fluid className={classNames("p-4", "mt-3", { "d-none": !answerIsShown })} style={{ maxWidth: "500px" }} />
+      </div>
     </>
   );
 }

@@ -1,7 +1,7 @@
 ---
 type: movie-plot
 title: "Star Wars IV: A New Hope"
-img: https://m.media-amazon.com/images/M/MV5BMDM1NmMxMzItYWUzMC00Yzc2LTk4MzctOTdkNDVhODY2N2MxXkEyXkFqcGdeQXVyNDQ0Mjg4NTY@._V1_.jpg
+img: https://posters.movieposterdb.com/21_01/1977/76759/l_76759_43e2730c.jpg
 ---
 
 The Lord saith: Woe unto the kingdom of Babylon, that hath made a metal moon to devour the earth. Woe unto the son of Belial, that weareth a mask of iron and forsaketh his brother.

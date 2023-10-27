@@ -1,7 +1,7 @@
 ---
 type: movie-plot
 title: Enchanted
-img: https://m.media-amazon.com/images/M/MV5BMjE4NDQ2Mjc0OF5BMl5BanBnXkFtZTcwNzQ2NDE1MQ@@._V1_FMjpg_UX1000_.jpg
+img: https://posters.movieposterdb.com/07_11/2007/461770/l_461770_70723502.jpg
 ---
 
 Behold a virgin, the daughter of Zion, alone in a forest place. And lo, a son of David findeth her with songs of rejoicing. But the soothsayer is discomfited and driveth my daughter unto Babylon.

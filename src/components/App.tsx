@@ -11,6 +11,9 @@ function App() {
   async function loadEntries() {
     const res = await fetch('/api/list-entries');
     const entries = await (res.json() as Promise<Entry[]>);
+    // for (const entry of entries) {
+    //   entry.visited = true;
+    // }
     entries[0].visited = true;
     entries[1].visited = true;
     setEntries(entries);
