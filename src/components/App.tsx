@@ -7,7 +7,7 @@ import { entryIsVisited } from '../util/StorageManager';
 
 function App() {
   const [entries, setEntries] = useState<Entry[]>([]);
-  const [nextEntry, setNextEntry] = useState<Entry | undefined>(undefined);
+  // const [nextEntry, setNextEntry] = useState<Entry | undefined>(undefined);
 
   async function loadEntries() {
     const res = await fetch('/api/list-entries');
@@ -16,7 +16,7 @@ function App() {
       entry.visited = entryIsVisited(entry.id!);
     }
     setEntries(entries);
-    setNextEntry(entries.find(entry => !entry.visited));
+    // setNextEntry(entries.find(entry => !entry.visited));
   }
 
   useEffect(() => {
