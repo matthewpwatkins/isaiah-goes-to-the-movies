@@ -1,6 +1,6 @@
 import classNames from "classnames";
 import { useEffect, useState } from "react";
-import { Button, Card, Col, Row } from "react-bootstrap";
+import { Button, Card } from "react-bootstrap";
 import Markdown from "react-markdown";
 import { useParams } from "react-router-dom";
 import Entry from "../models/Entry";
