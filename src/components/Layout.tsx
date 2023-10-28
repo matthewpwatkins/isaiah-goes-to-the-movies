@@ -6,7 +6,7 @@ function Layout() {
   return (
     <>
       <PageNav />
-      <Container className="p-3 mt-3">
+      <Container className="p-3 my-3">
         <Outlet />
       </Container>
     </>

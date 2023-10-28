@@ -8,6 +8,7 @@ import { parseEntry } from "../util/EntryParser";
 import "./EntryDetails.css";
 import Image from "react-bootstrap/Image";
 import { entryIsVisited, setEntryIsVisited } from "../util/StorageManager";
+import BackToListLink from "./BackToListLink";
 
 function EntryDetails() {
   const { id } = useParams();
@@ -40,8 +41,12 @@ function EntryDetails() {
   }
 
   return (
-    <div style={{ maxWidth: "640px", margin: "auto" }}>
-      <Card border="secondary" className="p-4 parchment mb-4">
+    <div
+      style={{ maxWidth: "640px", margin: "auto" }}
+      className={classNames({ "d-none": !entry })}
+    >
+      <BackToListLink />
+      <Card border="secondary" className="p-4 parchment my-4">
         <div className="biblical-text">
           <Markdown>{entry?.contentMarkdown}</Markdown>
         </div>
@@ -54,11 +59,12 @@ function EntryDetails() {
       </div>
       <div
         id="answer"
-        className={classNames("text-center", { "d-none": !answerIsShown })}
+        className={classNames("text-center", "mb-4", { "d-none": !answerIsShown })}
       >
         <h1 className="display-1">{entry?.title}</h1>
         <Image src={entry?.img} fluid className="rounded-start" />
       </div>
+      <BackToListLink />
     </div>
   );
 }

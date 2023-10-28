@@ -6,6 +6,7 @@ import Entry from "../models/Entry";
 import { entryIsVisited } from "../util/StorageManager";
 import "./App.css";
 import EntryList from "./EntryList";
+import classNames from "classnames";
 
 function App() {
   const [entries, setEntries] = useState<Entry[]>([]);
@@ -50,7 +51,15 @@ function App() {
           </p>
         </Col>
       </Row>
-      <EntryList entries={entries} />
+      <h2 className="display-2">Isaiah's visions</h2>
+      <p className="lead">
+        Click on the cards below to read Isaiah's descriptions. Can you name the
+        movie?
+      </p>
+      <EntryList
+        entries={entries}
+        className={classNames({ "d-none": !entries?.length })}
+      />
     </>
   );
 }
