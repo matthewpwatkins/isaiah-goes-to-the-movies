@@ -9,6 +9,8 @@ export function parseEntry(id: string, entryMarkdown: string) {
     .trim();
   const entry = parse(frontMatter) as Entry;
   entry.id = id;
-  entry.contentMarkdown = entryMarkdown.substring(frontMatterEndIndex + 3).trim();
+  entry.contentMarkdown = entryMarkdown
+    .substring(frontMatterEndIndex + 3)
+    .trim();
   return entry;
 }

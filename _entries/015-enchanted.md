@@ -10,4 +10,4 @@ Yet in Babylon will I not forsake her. For an scribe have I prepared for her, an
 
 Then shall the son of David and the soothsayer pursue her separately, the one to gather, and the other to destroy. And they shall dispute wonderfully. But the daughter of Zion is perplexed, even that she fainteth and there is found no life yet in her.
 
-Then shall my servant, the scribe of Babylon, work upon my daughter insomuch that her nostrils are filled again. The shall the scribe gird his loins with courage and shall smite the dragon, and it be broken and scattered in pieces across the land of Babylon. 
+Then shall my servant, the scribe of Babylon, work upon my daughter insomuch that her nostrils are filled again. The shall the scribe gird his loins with courage and shall smite the dragon, and it be broken and scattered in pieces across the land of Babylon.

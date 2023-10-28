@@ -9,10 +9,10 @@ function PageNav() {
           <Navbar.Brand>
             <img
               alt=""
-              src="https://react-bootstrap.github.io/img/logo.svg"
+              src="/favicon-32x32.png"
               width="30"
               height="30"
-              className="d-inline-block align-top"
+              className="d-inline-block align-top me-2"
             />{" "}
             Isaiah Goes to the Movies
           </Navbar.Brand>

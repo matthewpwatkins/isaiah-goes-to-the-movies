@@ -52,7 +52,10 @@ function EntryDetails() {
           What's Isaiah talking about?
         </Button>
       </div>
-      <div id="answer" className={classNames("text-center", { "d-none": !answerIsShown })}>
+      <div
+        id="answer"
+        className={classNames("text-center", { "d-none": !answerIsShown })}
+      >
         <h1 className="display-1">{entry?.title}</h1>
         <Image src={entry?.img} fluid className="rounded-start" />
       </div>

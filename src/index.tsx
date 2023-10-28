@@ -1,14 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './components/App';
-import reportWebVitals from './reportWebVitals';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Layout from './components/Layout';
-import EntryDetails from './components/EntryDetails';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./components/App";
+import reportWebVitals from "./reportWebVitals";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Layout from "./components/Layout";
+import EntryDetails from "./components/EntryDetails";
 
 const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
+  document.getElementById("root") as HTMLElement
 );
 root.render(
   <React.StrictMode>
@@ -16,7 +16,7 @@ root.render(
       <Routes>
         <Route path="/" Component={Layout}>
           <Route index Component={App}></Route>
-          <Route path="entries/:id" Component={EntryDetails}  />
+          <Route path="entries/:id" Component={EntryDetails} />
         </Route>
       </Routes>
     </BrowserRouter>

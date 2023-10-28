@@ -1,4 +1,4 @@
-export function entryIsVisited(entryID: string) : boolean {
+export function entryIsVisited(entryID: string): boolean {
   return localStorage.getItem(`entry-visits.${entryID}`) === true.toString();
 }
 

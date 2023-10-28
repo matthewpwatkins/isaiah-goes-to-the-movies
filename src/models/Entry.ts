@@ -4,4 +4,4 @@ export default interface Entry {
   img?: string;
   visited?: boolean;
   contentMarkdown?: string;
-};
+}
