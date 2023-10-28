@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import { useEffect, useState } from "react";
-import { Card, Col, Row } from "react-bootstrap";
+import { Col, Row } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import Entry from "../models/Entry";
 import { entryIsVisited } from "../util/StorageManager";
