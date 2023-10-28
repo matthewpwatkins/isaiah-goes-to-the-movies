@@ -4,7 +4,6 @@ title: 101 Dalmatians
 img: https://posters.movieposterdb.com/10_04/1961/55254/l_55254_ee535219.jpg
 ---
 
-
 There is joy in the household for the children that are born to the master. But behold and lo, I shall take away their rejoicings and give unto them a great mourning and a howling.
 
 For lo, a wicked woman hath risen up against my people, great and fearsome, and even her name shall be as the daughter of the evil one. And she weareth the flesh of her enemies upon her loins. Fire goeth into her mouth, and threatenings come out of her mouth.
