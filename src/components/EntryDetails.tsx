@@ -52,19 +52,18 @@ function EntryDetails() {
         </div>
       </Card>
 
-      <div className={classNames("text-center", { "d-none": answerIsShown })}>
+      <div className={classNames("text-center", "d-grid", { "d-none": answerIsShown })}>
         <Button size="lg" onClick={showAnswer}>
           What's Isaiah talking about?
         </Button>
       </div>
-      <div
-        id="answer"
-        className={classNames("text-center", "mb-4", { "d-none": !answerIsShown })}
-      >
-        <h1 className="display-1">{entry?.title}</h1>
-        <Image src={entry?.img} fluid className="rounded-start" />
+      <div className={classNames({ "d-none": !answerIsShown })}>
+        <div id="answer" className="text-center mb-4">
+          <h1 className="display-1">{entry?.title}</h1>
+          <Image src={entry?.img} fluid className="rounded-start" />
+        </div>
+        <BackToListLink />
       </div>
-      <BackToListLink />
     </div>
   );
 }
