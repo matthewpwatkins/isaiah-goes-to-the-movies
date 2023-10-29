@@ -1,0 +1,53 @@
+- Sound of Music
+- Batman
+- Bambi
+- Peter Pan
+- ET
+- Titanic
+- Star Wars (all)
+- Gone with the Wind
+- Casablanca
+- Singing in the Rain
+- It's a Wonderful Life
+- 2001: Space Odyssey
+- Wizard of Oz
+- Lord of the Rings
+- Forrest Gump
+- Inception
+- Interstellar
+- Spiderman
+- Back to the Future
+- Spirited Away
+- Lion King
+- Wall-E
+- Avengers
+- Coco
+- Amadeus
+- Hamilton
+- Up
+- To Kill a Mockingbird
+- Top Gun / Maverick
+- Truman Show
+- Justassic Park
+- Monty Python
+- Nemo
+- Inside Out
+- Catch Me if You Can
+- Harry Potter
+- Monsters Inc
+- Dead Poets Society
+- My Smith Goes to Washington
+- Jaws
+- How to Train your Dragon
+- Ford v Ferrari
+- Ratatouille
+- Pirates of the Caribbean
+- Incredibles
+- Groundhog Day
+- Iron Giant
+- The Help
+- Aladdin
+- Little Mermaid
+- Cinderella
+- Snow White
+- Frozen
