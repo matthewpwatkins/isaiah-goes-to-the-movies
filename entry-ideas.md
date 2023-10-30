@@ -22,7 +22,6 @@
 - Wall-E
 - Avengers
 - Coco
-- Amadeus
 - Hamilton
 - Up
 - To Kill a Mockingbird
@@ -43,7 +42,6 @@
 - Ratatouille
 - Pirates of the Caribbean
 - Incredibles
-- Groundhog Day
 - Iron Giant
 - The Help
 - Aladdin
