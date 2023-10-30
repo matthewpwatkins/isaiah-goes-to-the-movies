@@ -1,51 +1,51 @@
-- Sound of Music
-- Batman
-- Bambi
-- Peter Pan
-- ET
-- Titanic
-- Star Wars (all)
-- Gone with the Wind
-- Casablanca
-- Singing in the Rain
-- It's a Wonderful Life
 - 2001: Space Odyssey
-- Wizard of Oz
-- Lord of the Rings
-- Forrest Gump
-- Inception
-- Interstellar
-- Spiderman
-- Back to the Future
-- Spirited Away
-- Lion King
-- Wall-E
+- Aladdin
 - Avengers
+- Back to the Future
+- Bambi
+- Batman
+- Casablanca
+- Catch Me if You Can
+- Cinderella
 - Coco
+- Dead Poets Society
+- ET
+- Ford v Ferrari
+- Forrest Gump
+- Frozen
+- Gone with the Wind
 - Hamilton
-- Up
+- Harry Potter
+- How to Train your Dragon
+- Inception
+- Incredibles
+- Inside Out
+- Interstellar
+- Iron Giant
+- It's a Wonderful Life
+- Jaws
+- Justassic Park
+- Lion King
+- Little Mermaid
+- Lord of the Rings
+- Monsters Inc
+- Monty Python
+- My Smith Goes to Washington
+- Nemo
+- Peter Pan
+- Pirates of the Caribbean
+- Ratatouille
+- Singing in the Rain
+- Snow White
+- Sound of Music
+- Spiderman
+- Spirited Away
+- Star Wars (all)
+- The Help
+- Titanic
 - To Kill a Mockingbird
 - Top Gun / Maverick
 - Truman Show
-- Justassic Park
-- Monty Python
-- Nemo
-- Inside Out
-- Catch Me if You Can
-- Harry Potter
-- Monsters Inc
-- Dead Poets Society
-- My Smith Goes to Washington
-- Jaws
-- How to Train your Dragon
-- Ford v Ferrari
-- Ratatouille
-- Pirates of the Caribbean
-- Incredibles
-- Iron Giant
-- The Help
-- Aladdin
-- Little Mermaid
-- Cinderella
-- Snow White
-- Frozen
+- Up
+- Wall-E
+- Wizard of Oz
