@@ -52,7 +52,11 @@ function EntryDetails() {
         </div>
       </Card>
 
-      <div className={classNames("text-center", "d-grid", { "d-none": answerIsShown })}>
+      <div
+        className={classNames("text-center", "d-grid", {
+          "d-none": answerIsShown,
+        })}
+      >
         <Button size="lg" onClick={showAnswer}>
           What's Isaiah talking about?
         </Button>

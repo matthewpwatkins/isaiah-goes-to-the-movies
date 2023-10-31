@@ -10,6 +10,6 @@ And such an one as he thinketh not shall overthrow him and shall strike him and 
 
 And in the wilderness shall he eat grass as the ox, and much peril befall him, and he be straitened by my hand. And his mouth is full of uncleanness, and even bats and centipedes shall he eat until he humble himself and learn my law saith the Lord of Sabaoth.
 
-And when he hath understanding as a mighty man, then shall a might man of his people carry him. In battle shall they prevail against that corrupt counselor that did mar him. Though all manner of beasts oppose them, yet shall they drive out that wicked counselor.
+And when he hath understanding as a mighty man, then shall a mighty man of his people carry him. In battle shall they prevail against that corrupt counselor that did mar him. Though all manner of beasts oppose them, yet shall they drive out that wicked counselor.
 
 And that prince shall rule again in wisdom and his bowels shall be filled with compassion upon the poor and he shall cease to afflict them with that which is grievous to be borne.

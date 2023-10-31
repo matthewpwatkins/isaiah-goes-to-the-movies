@@ -4,8 +4,10 @@ title: "Star Wars IV: A New Hope"
 img: https://posters.movieposterdb.com/21_01/1977/76759/s_76759_980f63c8.jpg
 ---
 
-The Lord saith: Woe unto the kingdom of Babylon, that hath made a metal moon to devour the earth. Woe unto the son of Belial, that weareth a mask of iron and forsaketh his brother.
+Thus saith the Lord, Wo unto the kingdom of Babylon, that oppresseth my people and maketh for themselves stars and wonders of curious workmanship. Wo unto the son of Belial who forsaketh his brother and weareth a mask to hide his shameful countenance.
 
-But I have brought forth a son of Jerusalem, that dwelleth in the wilderness and wieldeth a sword of fire. He learneth from my prophet, that perisheth by the son of Belial’s hand. He delivereth my daughter, that is captive in the metal moon.
+I have brought forth a son of Jerusalem. He dwelleth in the wilderness and learneth from my prophet. And though my prophet perisheth by the hand of the son of Belial, yet he shall still guide the son of Jerusalem, and shall give him the sword of the seraphim.
 
-He flieth with his friend, that hath a swift eagle. He trusteth in my power, not in his sight. He smiteth the metal moon with his sword and kindleth a fire. He is the one who restoreth the balance and the hope for the world.
+And the son shall seek out my captive daughter who is taken by the priests of Babylon and hidden among the stars. She shall be amazed at his stature yet he shall deliver her from the monsters.
+
+My son flieth with his friend that hath a swift eagle. He trusteth in my power, not in his sight. And when he rejecteth the arm of the flesh, he shall smite the moon and kindle a fire therein. And he shall rest for a season, but the end is not yet.

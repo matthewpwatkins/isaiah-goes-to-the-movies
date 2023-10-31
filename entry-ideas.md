@@ -1,3 +1,4 @@
+- 50 First Dates
 - 2001: Space Odyssey
 - Aladdin
 - Avengers
@@ -5,6 +6,7 @@
 - Bambi
 - Batman
 - Casablanca
+- Casper
 - Catch Me if You Can
 - Cinderella
 - Coco
@@ -13,9 +15,13 @@
 - Ford v Ferrari
 - Forrest Gump
 - Frozen
+- Galazy Quest
 - Gone with the Wind
+- Grinch
 - Hamilton
 - Harry Potter
+- Hocus Pocus
+- Hook
 - How to Train your Dragon
 - Inception
 - Incredibles
@@ -24,6 +30,7 @@
 - Iron Giant
 - It's a Wonderful Life
 - Jaws
+- Jingle all the Way
 - Justassic Park
 - Lion King
 - Little Mermaid
@@ -32,9 +39,11 @@
 - Monty Python
 - My Smith Goes to Washington
 - Nemo
+- Nightmare Before Christmas
 - Peter Pan
 - Pirates of the Caribbean
 - Ratatouille
+- Rise of the Guardians
 - Singing in the Rain
 - Snow White
 - Sound of Music
@@ -42,6 +51,7 @@
 - Spirited Away
 - Star Wars (all)
 - The Help
+- Three Amigos
 - Titanic
 - To Kill a Mockingbird
 - Top Gun / Maverick
