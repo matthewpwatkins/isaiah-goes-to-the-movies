@@ -1,5 +1,5 @@
-- 50 First Dates
 - 2001: Space Odyssey
+- 50 First Dates
 - Aladdin
 - Avengers
 - Back to the Future
@@ -31,7 +31,7 @@
 - It's a Wonderful Life
 - Jaws
 - Jingle all the Way
-- Justassic Park
+- Jurassic Park
 - Lion King
 - Little Mermaid
 - Lord of the Rings
