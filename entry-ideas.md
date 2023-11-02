@@ -39,7 +39,6 @@
 - Monty Python
 - My Smith Goes to Washington
 - Nemo
-- Nightmare Before Christmas
 - Peter Pan
 - Pirates of the Caribbean
 - Ratatouille
@@ -51,11 +50,11 @@
 - Spirited Away
 - Star Wars (all)
 - The Help
+- The Santa Clause
 - Three Amigos
 - Titanic
 - To Kill a Mockingbird
 - Top Gun / Maverick
-- Truman Show
 - Up
 - Wall-E
 - Wizard of Oz
