@@ -6,9 +6,7 @@ img: https://posters.movieposterdb.com/08_07/1986/92086/l_92086_e90cd0ec.jpg
 
 I beheld a remnant of the house of Israel, and it was compassed about by the army of Moab, and they did assail her ruthlessly.
 
-And a virgin saw in vision great and noble soldier from a foreign land. And she did send forth and did plead with them to come and deliver Israel.
-
-And the soldiers came, and they spoke valiantly. And they taunted Moab as a sow in the mire and as a goat
+And a virgin saw in vision great and noble soldiers from a foreign land. And she did send forth and did plead with them to come and deliver Israel.
 
 And the soldiers came, and they spoke valiantly. And they mocked Moab as a dog to its vomit, and as a sow in the mire, and as a doe without a dam. But when they saw the Moabites, they were affrighted, and did smite the knees, and did flee, for they had never fought any man.
 
