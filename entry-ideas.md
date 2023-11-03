@@ -1,21 +1,21 @@
--
--
+- ~~101 Dalmatians~~
 - 2001: Space Odyssey
 - 50 First Dates
 - AI: Artificial Intelligence
 - Aladdin
 - Alice in Wonderland
+- ~~Amadeus~~
 - Anchorman
 - Ant-Man
 - Arrival
 - Avengers
-- BFG
 - Back to the Future
 - Bambi
 - Batman
 - Bedtime Stories
 - Benchawarmers
 - Beverly Hillbillies
+- BFG
 - Big Fish
 - Black Panther
 - Bolt
@@ -29,13 +29,16 @@
 - Circle, The
 - Coco
 - Core, The
+- ~~Dave~~
 - Dead Poets Society
 - Deep Impact
 - Dumb and Dumber
 - Dumbo
-- ET
 - El Dorado
+- ~~Emperor's New Groove~~
+- ~~Enchanted~~
 - Ender's Game
+- ET
 - Evan Almighty
 - Fantastic Four
 - Ferris Bueller
@@ -51,23 +54,25 @@
 - Gods must be crazy, The
 - Gone with the Wind
 - Grinch
+- ~~Groundhog Day~~
 - Guardians of the Galaxy
 - Hamilton
 - Harry Potter
 - Help, The
 - Hocus Pocus
+- ~~Home Alone~~
 - Hook
 - How to Train your Dragon
 - Hulk
 - Hunger Games
 - Hunt for Red October
 - I can Only Imagine
-- I, Robot
 - Inception
 - Incredibles
 - Inside Out
 - Inspector Gadget
 - Interstellar
+- I, Robot
 - Iron Giant
 - Iron Man
 - It's a Wonderful Life
@@ -98,6 +103,7 @@
 - Napoleon Dynamite
 - National Treasure
 - Night at the Museum
+- ~~Nightmare Before Christmas~~
 - Notebook, The
 - Osmosis Jones
 - Peter Pan
@@ -119,29 +125,21 @@
 - Spirited Away
 - Star Trek IV: Voyage Home
 - Star Wars (all)
+- ~~StarWars: A New hope~~
 - Superman
 - Terminal, The
 - Thor
+- ~~Three Amigos, The~~
 - Titanic
 - To Kill a Mockingbird
 - Top Gun / Maverick
+- ~~Toy Story~~
+- ~~Trumarn Show~~
 - Unbreakable
 - Unbroken
 - Up
 - Wall-E
 - We Bought a Zoo
+- ~~Willy Wonka and the Chocolate Factory~~
 - Wizard of Oz
 - X-Men
-- ~~101 Dalmatians~~
-- ~~Amadeus~~
-- ~~Dave~~
-- ~~Emperor's New Groove~~
-- ~~Enchanted~~
-- ~~Groundhog Day~~
-- ~~Home Alone~~
-- ~~Nightmare Before Christmas~~
-- ~~StarWars: A New hope~~
-- ~~Three Amigos, The~~
-- ~~Toy Story~~
-- ~~Trumarn Show~~
-- ~~Willy Wonka and the Chocolate Factory~~
