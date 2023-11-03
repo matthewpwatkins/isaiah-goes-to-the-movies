@@ -1,60 +1,144 @@
+-
+-
 - 2001: Space Odyssey
 - 50 First Dates
+- AI: Artificial Intelligence
 - Aladdin
+- Anchorman
+- Ant-Man
 - Avengers
+- BFG
 - Back to the Future
 - Bambi
 - Batman
+- Bedtime Stories
+- Benchawarmers
+- Beverly Hillbillies
+- Big Fish
+- Black Panther
+- Bolt
+- Bug's Life, A
+- Captain America
 - Casablanca
 - Casper
 - Catch Me if You Can
+- Cats & Dogs
 - Cinderella
+- Circle, The
 - Coco
+- Core, The
 - Dead Poets Society
+- Deep Impact
+- Dumb and Dumber
+- Dumbo
 - ET
+- El Dorado
+- Ender's Game
+- Evan Almighty
+- Fantastic Four
+- Ferris Bueller
+- Fiddler on the Roof
+- Flubber
+- Footloose
 - Ford v Ferrari
+- Forever Strong
 - Forrest Gump
 - Frozen
 - Galazy Quest
+- Gods must be crazy, The
 - Gone with the Wind
 - Grinch
+- Guardians of the Galaxy
 - Hamilton
 - Harry Potter
+- Help, The
 - Hocus Pocus
 - Hook
 - How to Train your Dragon
+- Hulk
+- Hunger Games
+- Hunt for Red October
+- I can Only Imagine
+- I, Robot
 - Inception
 - Incredibles
 - Inside Out
+- Inspector Gadget
 - Interstellar
 - Iron Giant
+- Iron Man
 - It's a Wonderful Life
+- James Bond
 - Jaws
 - Jingle all the Way
+- Jumanji
 - Jurassic Park
+- Kindergarten Cop
+- Kung Fu Panda
+- Land Before Time
+- Lego Movie
+- Les Mierables
+- Lilo and Stitch
 - Lion King
+- Lion, the With, and the Wardrobe, The
 - Little Mermaid
 - Lord of the Rings
+- Men in Black
+- Mighty Ducks
+- Mission: Impossible
 - Monsters Inc
 - Monty Python
-- My Smith Goes to Washington
+- Mr Smith Goes to Washington
+- Muppets Christmas Carol
+- My Big Fat Greek Wedding
+- Nacho Libre
+- Napoleon Dynamite
+- National Treasure
 - Nemo
+- Night at the Museum
+- Notebook, The
+- Osmosis Jones
 - Peter Pan
 - Pirates of the Caribbean
+- Pixels
+- Pocahontas
+- Pride and Prejudice
+- Princess Diaries
 - Ratatouille
 - Rise of the Guardians
-- Singing in the Rain
+- Santa Clause, The
+- Shazam
+- Shrek
+- Singin' in the Rain
+- Sleeping Beauty
 - Snow White
 - Sound of Music
 - Spiderman
 - Spirited Away
+- Star Trek IV: Voyage Home
 - Star Wars (all)
-- The Help
-- The Santa Clause
-- Three Amigos
+- Superman
+- Terminal, The
+- Thor
+- Three Amigos, The
 - Titanic
 - To Kill a Mockingbird
 - Top Gun / Maverick
+- Unbroken
 - Up
 - Wall-E
+- We Bought a Zoo
 - Wizard of Oz
+- X-Men
+- ~~101 Dalmatians~~
+- ~~Amadeus~~
+- ~~Dave~~
+- ~~Emperor's New Groove~~
+- ~~Enchanted~~
+- ~~Groundhog Day~~
+- ~~Home Alone~~
+- ~~Nightmare Before Christmas~~
+- ~~StarWars: A New hope~~
+- ~~Toy Story~~
+- ~~Trumarn Show~~
+- ~~Willy Wonka and the Chocolate Factory~~
