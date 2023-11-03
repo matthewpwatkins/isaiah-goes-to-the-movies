@@ -122,7 +122,6 @@
 - Superman
 - Terminal, The
 - Thor
-- Three Amigos, The
 - Titanic
 - To Kill a Mockingbird
 - Top Gun / Maverick
@@ -142,6 +141,7 @@
 - ~~Home Alone~~
 - ~~Nightmare Before Christmas~~
 - ~~StarWars: A New hope~~
+- ~~Three Amigos, The~~
 - ~~Toy Story~~
 - ~~Trumarn Show~~
 - ~~Willy Wonka and the Chocolate Factory~~
