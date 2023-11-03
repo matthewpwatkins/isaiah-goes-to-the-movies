@@ -4,8 +4,10 @@
 - 50 First Dates
 - AI: Artificial Intelligence
 - Aladdin
+- Alice in Wonderland
 - Anchorman
 - Ant-Man
+- Arrival
 - Avengers
 - BFG
 - Back to the Future
@@ -38,6 +40,7 @@
 - Fantastic Four
 - Ferris Bueller
 - Fiddler on the Roof
+- Finding Nemo
 - Flubber
 - Footloose
 - Ford v Ferrari
@@ -94,7 +97,6 @@
 - Nacho Libre
 - Napoleon Dynamite
 - National Treasure
-- Nemo
 - Night at the Museum
 - Notebook, The
 - Osmosis Jones
@@ -124,6 +126,7 @@
 - Titanic
 - To Kill a Mockingbird
 - Top Gun / Maverick
+- Unbreakable
 - Unbroken
 - Up
 - Wall-E
