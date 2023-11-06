@@ -1,4 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
+import classNames from "classnames";
 import { useEffect, useState } from "react";
 import { Col, Row } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
@@ -6,12 +7,13 @@ import Entry from "../models/Entry";
 import { entryIsVisited } from "../util/StorageManager";
 import "./App.css";
 import EntryList from "./EntryList";
-import classNames from "classnames";
+import { initPage } from "./PageComponent";
 
 function App() {
   const [entries, setEntries] = useState<Entry[]>([]);
 
   async function loadEntries() {
+    initPage({});
     const res = await fetch("/api/list-entries");
     const entries = await (res.json() as Promise<Entry[]>);
     entries.reverse();

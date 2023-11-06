@@ -1,14 +1,15 @@
 import classNames from "classnames";
 import { useEffect, useState } from "react";
 import { Button, Card } from "react-bootstrap";
+import Image from "react-bootstrap/Image";
 import Markdown from "react-markdown";
 import { useParams } from "react-router-dom";
 import Entry from "../models/Entry";
 import { parseEntry } from "../util/EntryParser";
-import "./EntryDetails.css";
-import Image from "react-bootstrap/Image";
 import { entryIsVisited, setEntryIsVisited } from "../util/StorageManager";
 import BackToListLink from "./BackToListLink";
+import "./EntryDetails.css";
+import { initPage } from "./PageComponent";
 
 function EntryDetails() {
   const { id } = useParams();
@@ -16,6 +17,7 @@ function EntryDetails() {
   const [answerIsShown, setAnswerIsShown] = useState(false);
 
   async function loadEntry(entryID: string) {
+    initPage({ pageTitle: `#${parseInt(entryID)}` });
     const res = await fetch(`/api/${entryID}`);
     const entryText = await res.text();
     const entry = parseEntry(entryID, entryText);
