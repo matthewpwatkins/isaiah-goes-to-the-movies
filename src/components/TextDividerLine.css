@@ -1,0 +1,12 @@
+.text-divider-line {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid var(--bs-dark-bg-subtle);
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+.text-divider-line span {
+  background: #fff;
+  padding: 0 10px;
+}

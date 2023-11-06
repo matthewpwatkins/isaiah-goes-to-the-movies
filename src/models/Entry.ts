@@ -1,5 +1,5 @@
 export default interface Entry {
-  id?: string;
+  id: string;
   title?: string;
   img?: string;
   visited?: boolean;
