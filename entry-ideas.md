@@ -1,6 +1,7 @@
 - ~~101 Dalmatians~~
 - 2001: Space Odyssey
 - 50 First Dates
+- Age of Adeline
 - AI: Artificial Intelligence
 - Aladdin
 - Alice in Wonderland
@@ -14,6 +15,7 @@
 - Batman
 - Bedtime Stories
 - Benchawarmers
+- Benjamin Button
 - Beverly Hillbillies
 - BFG
 - Big Fish
@@ -69,11 +71,12 @@
 - I can Only Imagine
 - Inception
 - Incredibles
+- Indiana Jones
 - Inside Out
 - Inspector Gadget
 - Interstellar
 - I, Robot
-- Iron Giant
+- ~~Iron Giant~~
 - Iron Man
 - It's a Wonderful Life
 - James Bond
@@ -114,6 +117,7 @@
 - Princess Diaries
 - Ratatouille
 - Rise of the Guardians
+- Sabrina
 - Santa Clause, The
 - Shazam
 - Shrek
@@ -143,3 +147,7 @@
 - ~~Willy Wonka and the Chocolate Factory~~
 - Wizard of Oz
 - X-Men
+- Phantom of th Opera
+- Twister
+- Free Willy
+- 
