@@ -31,7 +31,7 @@ function App() {
     <>
       <Row className="mb-3">
         <Col sm="12" md="6" lg="4">
-          <Image src="/isaiah-goes-to-the-movies.jpg" fluid />
+          <Image src="/isaiah-goes-to-the-movies.jpg" fluid alt="Isaiah Goes to the Movies" />
         </Col>
         <Col className="px-3">
           {/* <h1 className="display-3">Isaiah Goes to the Movies</h1> */}
