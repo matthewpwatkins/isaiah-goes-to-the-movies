@@ -51,6 +51,7 @@
 - Ford v Ferrari
 - Forever Strong
 - Forrest Gump
+- Free Willy
 - Frozen
 - Galazy Quest
 - Gods must be crazy, The
@@ -110,6 +111,7 @@
 - Notebook, The
 - Osmosis Jones
 - Peter Pan
+- Phantom of the Opera
 - Pirates of the Caribbean
 - Pixels
 - Pocahontas
@@ -139,6 +141,7 @@
 - Top Gun / Maverick
 - ~~Toy Story~~
 - ~~Trumarn Show~~
+- Twister
 - Unbreakable
 - Unbroken
 - Up
@@ -147,7 +150,3 @@
 - ~~Willy Wonka and the Chocolate Factory~~
 - Wizard of Oz
 - X-Men
-- Phantom of th Opera
-- Twister
-- Free Willy
-- 

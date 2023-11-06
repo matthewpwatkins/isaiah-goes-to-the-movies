@@ -4,7 +4,6 @@ import Entry from "../models/Entry";
 import { Link } from "react-router-dom";
 import { TextDividerLine } from "./TextDividerLine";
 
-
 export interface MovieListProps {
   entries: Entry[];
   className?: string;
