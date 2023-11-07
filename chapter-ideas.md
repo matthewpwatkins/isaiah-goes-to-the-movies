@@ -1,0 +1,292 @@
+- ~~101 Dalmatians~~
+- 1776
+- 2001: Space Odyssey
+- 50 First Dates
+- Adam Project, The
+- Age of Adeline
+- AI: Artificial Intelligence
+- Aladdin
+- Alice in Wonderland
+- Alvin and the Chipmunks
+- ~~Amadeus~~
+- Anastasia
+- Anchorman
+- Anger Management
+- Angry Birds
+- Ant-Man
+- Apollo 13
+- Aquaman
+- Aristocats
+- Arrival
+- Atlantis
+- Avengers
+- Baby's Day Out
+- Backdraft
+- Back to the Future
+- Balto
+- Bambi
+- Batman
+- Batman v Superman
+- Bean (Mr.)
+- Beauty and the Beast
+- Bedtime Stories
+- Benchawarmers
+- Benchwarmers
+- Benjamin Button
+- Beverly Hillbillies
+- BFG
+- Big
+- Big Fish
+- Big Hero 6
+- Bill & Ted
+- Black Cauldron, The
+- Black Panther
+- Blind Side, The
+- Bolt
+- Boss Baby
+- Brave
+- Bug's Life, A
+- Captain America
+- Captain Marvel
+- Casablanca
+- Casper
+- Cast Away
+- Catch Me if You Can
+- Cats & Dogs
+- Charlie Brown Christmas
+- Chicken Little
+- Christmas Carol
+- Christmas Story
+- Cinderella
+- Circle, The
+- Cloudy with a Chance of Meatballs
+- Coco
+- Core, The
+- Count of Monte Cristo
+- Croods
+- ~~Dave~~
+- Da Vinci Code
+- Dead Poets Society
+- Deep Impact
+- Doctor Strange
+- Dolittle
+- Dumb and Dumber
+- Dumbo
+- Eagle Eye
+- El Dorado
+- Elf
+- ~~Emperor's New Groove~~
+- ~~Enchanted~~
+- Ender's Game
+- ET
+- Evan Almighty
+- Extremely Loud and Incredibly Close
+- Facing the Giants
+- Fantasia
+- Fantasia 2000
+- Fantastic Beasts
+- Fantastic Four
+- Ferris Bueller
+- Fiddler on the Roof
+- Finding Nemo
+- Flubber
+- Footloose
+- Ford v Ferrari
+- Forever Strong
+- Forrest Gump
+- Fox and the Hound
+- Free Guy
+- Free Willy
+- Frozen
+- Galaxy Quest
+- Get Smart
+- Ghostbusters
+- Gnomeo and Juliet
+- Gods must be crazy, The
+- Gone with the Wind
+- Goofy Movie
+- Greatest Showman
+- Great Mouse Detective
+- Grinch
+- ~~Groundhog Day~~
+- Guardians of the Galaxy
+- Hamilton
+- Hancock
+- Happy Gilmore
+- Harry Potter
+- Haunted Manson
+- Help, The
+- Hercules
+- Here comes the Boom
+- Hidden Figures
+- Hitch
+- Hobbit
+- Hocus Pocus
+- Holes
+- ~~Home Alone~~
+- Homeward Bound
+- Honey, I Shrunk the Kids
+- Hook
+- How to Train your Dragon
+- Hulk
+- Hunchback of Notre Dame
+- Hunger Games
+- Hunt for Red October
+- I can Only Imagine
+- Ice Age
+- Imitation Game
+- Inception
+- Incredibles
+- Independence Day
+- Indiana Jones
+- Inferno
+- Inside Out
+- Inspector Gadget
+- Interstellar
+- I, Robot
+- ~~Iron Giant~~
+- Iron Man
+- It's a Wonderful Life
+- James Bond
+- Jaws
+- Jingle all the Way
+- Jumanji
+- Jungle Book
+- Jurassic Park
+- Kindergarten Cop
+- Kung Fu Panda
+- Land Before Time
+- Lego Movie
+- Les Mierables
+- Lilo and Stitch
+- Lion King
+- Lion, the With, and the Wardrobe, The
+- Little Mermaid
+- Little Rascals
+- Lord of the Rings
+- Luca
+- Man who knew too little
+- Martian
+- Mary Poppins
+- Meet the RObinsons
+- Megamind
+- Men in Black
+- Mighty Ducks
+- Miss Congeniality
+- Mission: Impossible
+- Mission Impossible
+- Moana
+- Mobsters and Mormons
+- Monsters Inc
+- Monty Python
+- Mr. Mom
+- Mr. Peacbody and Sherman
+- Mrs. Doubtfire
+- Mr Smith Goes to Washington
+- Mulan
+- Muppets Christmas Carol
+- My Big Fat Greek Wedding
+- My Bigt Fat Greek Wedding
+- My Fair Lady
+- Nacho Libre
+- Napoleon Dynamite
+- National Treasure
+- Night at the Museum
+- ~~Nightmare Before Christmas~~
+- Notebook
+- Notebook, The
+- Now You See Me
+- Oliver and Company
+- Osmosis Jones
+- Over the Hedge
+- Pacific Rim
+- Pacifier
+- Pagemaster
+- Passengers
+- Paul Blart Mall Cop
+- Penguins of Madagascar
+- Peter Pan
+- Phantom of the Opera
+- Pink Panther
+- Pinocchio
+- Pirates of the Caribbean
+- Pixels
+- Pocahontas
+- Polar Express
+- Pride and Prejudice
+- Prince of Ehypt
+- Princess and the Frog
+- Princess Bride
+- Princess Diaries
+- Proposal
+- Puss in Boots (1 and 2)
+- Quiet Place
+- Radio
+- Ratatouille
+- Raya and the Last Drage
+- Ready Player One
+- Remember the Titans
+- Rescuers
+- Rio
+- Rise of the Guardians
+- Robin Hood
+- Robocop
+- Rogue One
+- Rudy
+- Sabrina
+- Sandlot
+- Santa Clause, The
+- Shazam
+- Shrek
+- Sing
+- Singin' in the Rain
+- Sleeping Beauty
+- Sleepless in Seattle
+- Snow White
+- Sonic
+- Sound of Music
+- Space Jam
+- Spiderman
+- Spirited Away
+- Star Trek IV: Voyage Home
+- Star Wars (all)
+- ~~StarWars: A New hope~~
+- Superman
+- Super Mario Bros
+- Swan Princess
+- Sword in the Stone
+- Tarzan
+- Terminal, The
+- Thor
+- ~~Three Amigos, The~~
+- Titanic
+- To Kill a Mockingbird
+- Tomorrow War
+- Top Gun
+- Top Gun / Maverick
+- ~~Toy Story~~
+- Transformers
+- Treasure Planet
+- ~~Trumarn Show~~
+- Twister
+- Unbreakable
+- Unbroken
+- Uncharted
+- Up
+- Walk to Remember
+- Wall-E
+- War Games
+- We Bought a Zoo
+- What About Bob?
+- What is a Woman?
+- While You Were Sleeping
+- Who Framed Roger Rabbit
+- ~~Willy Wonka and the Chocolate Factory~~
+- Winnie the Pooh
+- Wizard of Oz
+- Wonder Woman
+- Wrech-It Ralph
+- X-Men
+- Year Without a Santa Claus
+- Yesterday
+- Zootopia

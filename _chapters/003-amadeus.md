@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Adamdeus
-img: https://posters.movieposterdb.com/09_12/1984/86879/l_86879_a9089219.jpg
+imgSrc: https://posters.movieposterdb.com/09_12/1984/86879/l_86879_a9089219.jpg
 ---
 
 I will try my servant harshly, for though he speak humbly, he seeketh to excel. He purposeth to write for the Lord, yet his heart is full of gross vanity, and he rejoiceth in the fall of this father.

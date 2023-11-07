@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Home Alone
-img: https://posters.movieposterdb.com/15_12/1990/99785/l_99785_a7ec13a6.jpg
+imgSrc: https://posters.movieposterdb.com/15_12/1990/99785/l_99785_a7ec13a6.jpg
 ---
 
 Behold, the iniquitous son, who provoketh his kindred to wrath, and desireth to be cut off from their midst. For the Lord shall give him over to his own heart's counsel, and leave him desolate in his dwelling place.

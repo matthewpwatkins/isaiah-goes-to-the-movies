@@ -4,35 +4,35 @@ import { Button, Card } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import Markdown from "react-markdown";
 import { useParams } from "react-router-dom";
-import Entry from "../models/Entry";
-import { parseEntry } from "../util/EntryParser";
-import { entryIsVisited, setEntryIsVisited } from "../util/StorageManager";
+import Chapter from "../models/Chapter";
+import { chapterIsVisited, setChapterIsVisited } from "../util/StorageManager";
 import BackToListLink from "./BackToListLink";
-import "./EntryDetails.css";
+import "./ChapterDetails.css";
 import { initPage } from "./PageComponent";
+import { parseChapter } from "../util/ChapterParser";
 
-function EntryDetails() {
+function ChapterDetails() {
   const { id } = useParams();
-  const [entry, setEntry] = useState<Entry | undefined>(undefined);
+  const [chapter, setChapter] = useState<Chapter | undefined>(undefined);
   const [answerIsShown, setAnswerIsShown] = useState(false);
 
-  async function loadEntry(entryID: string) {
+  async function loadChapter(entryID: string) {
     initPage({ pageTitle: `Chapter ${parseInt(entryID)}` });
-    const res = await fetch(`/api/${entryID}`);
-    const entryText = await res.text();
-    const entry = parseEntry(entryID, entryText);
-    entry.visited = entryIsVisited(entryID);
-    setEntry(entry);
-    setAnswerIsShown(entry.visited);
+    const res = await fetch(`/data/chapters/${entryID}`);
+    const chapterText = await res.text();
+    const chapter = parseChapter(entryID, chapterText);
+    chapter.heading.visited = chapterIsVisited(entryID);
+    setChapter(chapter);
+    setAnswerIsShown(chapter.heading.visited);
   }
 
   useEffect(() => {
-    loadEntry(id!);
+    loadChapter(id!);
   }, [id]);
 
   function showAnswer() {
     setAnswerIsShown(true);
-    setEntryIsVisited(id!, true);
+    setChapterIsVisited(id!, true);
     setTimeout(
       () =>
         document
@@ -42,13 +42,15 @@ function EntryDetails() {
     );
   }
 
-  return entry ? (
-    <div className={classNames({ "d-none": !entry })}>
+  return chapter ? (
+    <div className={classNames({ "d-none": !chapter })}>
       <BackToListLink />
-      <h2 className="display-2 text-center">Chapter {parseInt(entry.id)}</h2>
+      <h2 className="display-2 text-center">
+        Chapter {chapter.heading.number}
+      </h2>
       <Card border="secondary" className="p-5 parchment my-4">
         <div className="biblical-text">
-          <Markdown>{entry?.contentMarkdown}</Markdown>
+          <Markdown>{chapter.contentMarkdown}</Markdown>
         </div>
       </Card>
 
@@ -63,8 +65,12 @@ function EntryDetails() {
       </div>
       <div className={classNames({ "d-none": !answerIsShown })}>
         <div id="answer" className="text-center mb-4">
-          <h1 className="display-1">{entry?.title}</h1>
-          <Image src={entry?.img} fluid className="rounded-start" />
+          <h1 className="display-1">{chapter.heading.title}</h1>
+          <Image
+            src={`/data/chapter-images/${chapter.heading.numberID}.jpg`}
+            fluid
+            className="rounded-start"
+          />
         </div>
         <BackToListLink />
       </div>
@@ -74,4 +80,4 @@ function EntryDetails() {
   );
 }
 
-export default EntryDetails;
+export default ChapterDetails;

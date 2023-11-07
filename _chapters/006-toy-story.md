@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Toy Story
-img: https://posters.movieposterdb.com/13_05/1995/114709/l_114709_6645f9fc.jpg
+imgSrc: https://posters.movieposterdb.com/13_05/1995/114709/l_114709_6645f9fc.jpg
 ---
 
 Behold, there is none like my servant David. He is a shepherd, and a soldier, and a ruler of my people. Above all the servants, there is none more beloved than he.

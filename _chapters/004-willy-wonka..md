@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Willy Wonka and the Chocolate Factory
-img: https://posters.movieposterdb.com/12_06/1971/67992/l_67992_66ade337.jpg
+imgSrc: https://posters.movieposterdb.com/12_06/1971/67992/l_67992_66ade337.jpg
 ---
 
 In that day shall secret works be manifest in the eyes of the people. And the worker shall say, truly ye shall see my curious works, but not all. And he shall number the fingers of his hand and shall choose him lads and virgins of report, and his wonders shall he show them, and the young ones shall enter the temple and shall see and hear unspeakable things.

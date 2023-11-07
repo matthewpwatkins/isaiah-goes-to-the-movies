@@ -1,7 +1,7 @@
 ---
 type: movie
 title: The Iron Giant
-img: https://posters.movieposterdb.com/06_09/1999/0129167/s_129099_0129167_1aa71f56.jpg
+imgSrc: https://posters.movieposterdb.com/06_09/1999/0129167/s_129099_0129167_1aa71f56.jpg
 ---
 
 Assyria shall assail Israel, and shall send a Caananite soldier and Israel shall be as grasshoppers in his sight. His neck is an iron sinew, and his brow is brass. And he shall work great destruction among my people.

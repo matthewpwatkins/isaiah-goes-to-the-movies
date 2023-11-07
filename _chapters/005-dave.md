@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Dave
-img: https://posters.movieposterdb.com/09_05/1993/106673/l_106673_02749156.jpg
+imgSrc: https://posters.movieposterdb.com/09_05/1993/106673/l_106673_02749156.jpg
 ---
 
 Lo, the king of Babylon, who regardeth not the Lord nor his people. For his heart is full of wickedness, delighting in whoredoms and oppression. His days are measured and he is found wanting. The Lord of Hosts shall cause his breath to depart from him even as he lieth.

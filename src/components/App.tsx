@@ -3,24 +3,24 @@ import classNames from "classnames";
 import { useEffect, useState } from "react";
 import { Col, Row } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
-import Entry from "../models/Entry";
-import { entryIsVisited } from "../util/StorageManager";
+import ChapterHeading from "../models/ChapterHeading";
+import { chapterIsVisited } from "../util/StorageManager";
 import "./App.css";
-import EntryList from "./EntryList";
+import ChapterList from "./ChapterList";
 import { initPage } from "./PageComponent";
 
 function App() {
-  const [entries, setEntries] = useState<Entry[]>([]);
+  const [chapterHeadings, setChapterHeadings] = useState<ChapterHeading[]>([]);
 
   async function loadEntries() {
     initPage({});
-    const res = await fetch("/api/list-entries");
-    const entries = await (res.json() as Promise<Entry[]>);
-    entries.reverse();
-    for (const entry of entries) {
-      entry.visited = entryIsVisited(entry.id!);
+    const res = await fetch("/data/chapters/_list");
+    const chapterHeadings = await (res.json() as Promise<ChapterHeading[]>);
+    chapterHeadings.reverse();
+    for (const chapterHeading of chapterHeadings) {
+      chapterHeading.visited = chapterIsVisited(chapterHeading.numberID);
     }
-    setEntries(entries);
+    setChapterHeadings(chapterHeadings);
   }
 
   useEffect(() => {
@@ -39,11 +39,11 @@ function App() {
           />
         </Col>
         <Col className="px-3">
-          {/* <h1 className="display-3">Isaiah Goes to the Movies</h1> */}
           <p className="lead">
-            Isaiah is difficult to understand sometimes. Okay, <em>all the time</em>.
-            He uses heavy symbolism, jumps back and forth in time,
-            and ties everything he sees in vision into an ancient Near Eastern context.
+            Isaiah is difficult to understand sometimes. Okay,{" "}
+            <em>all the time</em>. He uses heavy symbolism, jumps back and forth
+            in time, and ties everything he sees in vision into an ancient Near
+            Eastern context.
           </p>
           <p className="lead">
             So, let's practice interpreting Isaiah! Each chapter below shows how
@@ -59,9 +59,9 @@ function App() {
         </Col>
       </Row>
       <h2 className="display-2 text-center">Chapters</h2>
-      <EntryList
-        entries={entries}
-        className={classNames({ "d-none": !entries?.length })}
+      <ChapterList
+        chapterHeadings={chapterHeadings}
+        className={classNames({ "d-none": !chapterHeadings?.length })}
       />
     </>
   );

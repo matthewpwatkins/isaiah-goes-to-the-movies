@@ -1,7 +1,7 @@
-export function entryIsVisited(entryID: string): boolean {
+export function chapterIsVisited(entryID: string): boolean {
   return localStorage.getItem(`entry-visits.${entryID}`) === true.toString();
 }
 
-export function setEntryIsVisited(entryID: string, visited: boolean) {
+export function setChapterIsVisited(entryID: string, visited: boolean) {
   localStorage.setItem(`entry-visits.${entryID}`, visited.toString());
 }

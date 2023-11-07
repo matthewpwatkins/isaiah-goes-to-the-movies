@@ -1,7 +1,7 @@
 ---
 type: movie
 title: The Nightmare Before Christmas
-img: https://posters.movieposterdb.com/08_02/1993/107688/l_107688_588d0b6b.jpg
+imgSrc: https://posters.movieposterdb.com/08_02/1993/107688/l_107688_588d0b6b.jpg
 ---
 
 I looked and beheld a ruler of a pleasant land who ruleth his people in peace, and he worships the God of Israel, and his stature is great. But lo, soldiers from a far place capture him and carrieth him away.

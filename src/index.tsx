@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { initAnalytics } from "./components/Analytics";
 import App from "./components/App";
-import EntryDetails from "./components/EntryDetails";
+import ChapterDetails from "./components/ChapterDetails";
 import Layout from "./components/Layout";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
@@ -18,7 +18,7 @@ root.render(
       <Routes>
         <Route path="/" Component={Layout}>
           <Route index Component={App}></Route>
-          <Route path="chapters/:id" Component={EntryDetails} />
+          <Route path="chapters/:id" Component={ChapterDetails} />
         </Route>
       </Routes>
     </BrowserRouter>

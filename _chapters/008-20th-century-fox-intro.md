@@ -1,7 +1,7 @@
 ---
 type: movie-moment
 title: 20th Century Fox Intro
-img: https://posters.movieposterdb.com/23_03/2014/10399952/l_la-fabuleuse-histoire-des-studios-hollywoodiens-20th-century-fox-movie-poster_71be69cb.jpg
+imgSrc: https://posters.movieposterdb.com/23_03/2014/10399952/l_la-fabuleuse-histoire-des-studios-hollywoodiens-20th-century-fox-movie-poster_71be69cb.jpg
 ---
 
 I heard the report of a mighty army. And their drums sounded as ten thousand horses and their trumps as the hosts of heaven, yet I saw not a soldier.

@@ -4,9 +4,9 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Update entries API",
+      "label": "Build chapters",
       "type": "shell",
-      "command": "bash build-entry-list.sh",
+      "command": "bash build-chapters.sh",
       "problemMatcher": []
     }
   ]

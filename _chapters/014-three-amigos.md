@@ -1,7 +1,7 @@
 ---
 type: movie
 title: The Three Amigos
-img: https://posters.movieposterdb.com/08_07/1986/92086/l_92086_e90cd0ec.jpg
+imgSrc: https://posters.movieposterdb.com/08_07/1986/92086/l_92086_e90cd0ec.jpg
 ---
 
 I beheld a remnant of the house of Israel, and it was compassed about by the army of Moab, and they did assail her ruthlessly.

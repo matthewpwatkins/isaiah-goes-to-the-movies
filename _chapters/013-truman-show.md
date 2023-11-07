@@ -1,7 +1,7 @@
 ---
 type: movie
 title: The Truman Show
-img: https://posters.movieposterdb.com/13_10/1998/120382/s_120382_78b61b5e.jpg
+imgSrc: https://posters.movieposterdb.com/13_10/1998/120382/s_120382_78b61b5e.jpg
 ---
 
 Wo unto him who knows not the Lord, nor fears him. For he laboreth and maketh merry, he loveth and liveth, and thinketh he hath understanding.

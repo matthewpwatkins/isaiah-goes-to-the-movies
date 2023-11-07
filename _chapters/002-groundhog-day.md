@@ -1,7 +1,7 @@
 ---
 type: movie
 title: Groundhog Day
-img: https://posters.movieposterdb.com/07_10/1993/107048/s_107048_9590ee1c.jpg
+imgSrc: https://posters.movieposterdb.com/07_10/1993/107048/s_107048_9590ee1c.jpg
 ---
 
 Thus saith the Lord, my people have forgotten me, and they remember not the covenant of their fathers, wherefore I will stretch out my hand and curse them grievously with a deep sleep.

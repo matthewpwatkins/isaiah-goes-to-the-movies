@@ -1,7 +1,7 @@
 ---
 type: movie
 title: 101 Dalmatians
-img: https://posters.movieposterdb.com/10_04/1961/55254/l_55254_ee535219.jpg
+imgSrc: https://posters.movieposterdb.com/10_04/1961/55254/l_55254_ee535219.jpg
 ---
 
 There is joy in the household for the children that are born unto Israel. But behold and lo, I shall take away their rejoicings and give unto them a great mourning and a howling.
