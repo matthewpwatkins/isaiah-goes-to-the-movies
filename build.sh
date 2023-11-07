@@ -1,1 +1,1 @@
-bash build-entry-list.sh && npm run build
+bash build-chapters.sh && npm run build
