@@ -44,11 +44,10 @@ function EntryDetails() {
 
   return (
     <div
-      style={{ maxWidth: "640px", margin: "auto" }}
       className={classNames({ "d-none": !entry })}
     >
       <BackToListLink />
-      <Card border="secondary" className="p-4 parchment my-4">
+      <Card border="secondary" className="p-5 parchment my-4">
         <div className="biblical-text">
           <Markdown>{entry?.contentMarkdown}</Markdown>
         </div>
