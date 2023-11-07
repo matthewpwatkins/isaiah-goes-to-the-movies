@@ -14,7 +14,7 @@ function EntryList(props: MovieListProps) {
     <Row className={props.className}>
       {props.entries.map((entry) => (
         <Col key={entry.id} xs="4" md="3" lg="2" className="p-3">
-          <TextDividerLine>#{parseInt(entry.id!)}</TextDividerLine>
+          <TextDividerLine>Ch. {parseInt(entry.id!)}</TextDividerLine>
           <Link
             to={`/chapters/${entry.id}`}
             title={`Chapter ${parseInt(entry.id)}`}
