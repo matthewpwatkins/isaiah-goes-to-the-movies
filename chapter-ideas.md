@@ -20,7 +20,7 @@
 - Arrival
 - Atlantis
 - Avengers
-- Baby's Day Out
+- ~~Baby's Day Out~~
 - Backdraft
 - Back to the Future
 - Balto
@@ -182,7 +182,7 @@
 - Mr. Mom
 - Mr. Peacbody and Sherman
 - Mrs. Doubtfire
-- Mr Smith Goes to Washington
+- Mr. Smith Goes to Washington
 - Mulan
 - Muppets Christmas Carol
 - My Big Fat Greek Wedding
@@ -250,7 +250,7 @@
 - Spirited Away
 - Star Trek IV: Voyage Home
 - Star Wars (all)
-- ~~StarWars: A New hope~~
+- ~~Star Wars: A New Hope~~
 - Superman
 - Super Mario Bros
 - Swan Princess
