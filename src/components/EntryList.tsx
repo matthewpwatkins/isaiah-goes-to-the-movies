@@ -16,8 +16,8 @@ function EntryList(props: MovieListProps) {
         <Col key={entry.id} xs="4" md="3" lg="2" className="p-3">
           <TextDividerLine>#{parseInt(entry.id!)}</TextDividerLine>
           <Link
-            to={`/entries/${entry.id}`}
-            title={`Entry ${parseInt(entry.id)}`}
+            to={`/chapters/${entry.id}`}
+            title={`Chapter ${parseInt(entry.id)}`}
           >
             <Ratio
               aspectRatio={(40 / 27) * 100}
@@ -26,7 +26,7 @@ function EntryList(props: MovieListProps) {
               <Image
                 src={entry.visited ? entry.img : "/question-mark.png"}
                 style={{ opacity: 0.5 + (entry.visited ? 0.5 : 0.25) }}
-                alt={`Entry ${parseInt(entry.id)}`}
+                alt={`Chapter ${parseInt(entry.id)}`}
                 fluid
                 rounded
                 className="object-fit-fill"

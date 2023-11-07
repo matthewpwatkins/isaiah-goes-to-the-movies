@@ -1,2 +1,4 @@
+/entries/*                    /chapters/:splat 301
+
 # Send everything to the home page to let React router handle the path
-/* /index.html 200
+/*                            /index.html 200

@@ -18,7 +18,7 @@ root.render(
       <Routes>
         <Route path="/" Component={Layout}>
           <Route index Component={App}></Route>
-          <Route path="entries/:id" Component={EntryDetails} />
+          <Route path="chapters/:id" Component={EntryDetails} />
         </Route>
       </Routes>
     </BrowserRouter>

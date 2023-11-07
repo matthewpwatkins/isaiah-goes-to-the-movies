@@ -17,7 +17,7 @@ function EntryDetails() {
   const [answerIsShown, setAnswerIsShown] = useState(false);
 
   async function loadEntry(entryID: string) {
-    initPage({ pageTitle: `#${parseInt(entryID)}` });
+    initPage({ pageTitle: `Chapter ${parseInt(entryID)}` });
     const res = await fetch(`/api/${entryID}`);
     const entryText = await res.text();
     const entry = parseEntry(entryID, entryText);
@@ -42,11 +42,10 @@ function EntryDetails() {
     );
   }
 
-  return (
-    <div
-      className={classNames({ "d-none": !entry })}
-    >
+  return entry ? (
+    <div className={classNames({ "d-none": !entry })}>
       <BackToListLink />
+      <h2 className="display-2 text-center">Chapter {parseInt(entry.id)}</h2>
       <Card border="secondary" className="p-5 parchment my-4">
         <div className="biblical-text">
           <Markdown>{entry?.contentMarkdown}</Markdown>
@@ -70,6 +69,8 @@ function EntryDetails() {
         <BackToListLink />
       </div>
     </div>
+  ) : (
+    <></>
   );
 }
 
