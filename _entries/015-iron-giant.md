@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: The Iron Giant
 img: https://posters.movieposterdb.com/06_09/1999/0129167/s_129099_0129167_1aa71f56.jpg
 ---

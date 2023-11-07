@@ -32,7 +32,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "prettier": "cat entry-ideas.md | node sort-markdown-list.mjs > entry-ideas-sorted.md && mv -f entry-ideas-sorted.md entry-ideas.md && prettier . --write"
+    "prettier": "cat entry-ideas.md | node sort-markdown-list.mjs > entry-ideas-sorted.md && mv -f entry-ideas-sorted.md entry-ideas.md && uniq -i entry-ideas.md | tee entry-ideas.md && prettier . --write"
   },
   "eslintConfig": {
     "extends": [

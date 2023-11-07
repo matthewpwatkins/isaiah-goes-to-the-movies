@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: The Emperor's New Groove
 img: https://posters.movieposterdb.com/05_08/2000/0120917/l_42394_0120917_76a25cb5.jpg
 ---

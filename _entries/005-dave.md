@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: Dave
 img: https://posters.movieposterdb.com/09_05/1993/106673/l_106673_02749156.jpg
 ---

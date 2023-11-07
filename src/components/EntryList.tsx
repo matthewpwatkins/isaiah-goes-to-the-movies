@@ -15,7 +15,10 @@ function EntryList(props: MovieListProps) {
       {props.entries.map((entry) => (
         <Col key={entry.id} xs="4" md="3" lg="2" className="p-3">
           <TextDividerLine>#{parseInt(entry.id!)}</TextDividerLine>
-          <Link to={`/entries/${entry.id}`} title={`Entry ${parseInt(entry.id)}`} >
+          <Link
+            to={`/entries/${entry.id}`}
+            title={`Entry ${parseInt(entry.id)}`}
+          >
             <Ratio
               aspectRatio={(40 / 27) * 100}
               className="rounded border border-secondary-subtle bg-secondary"

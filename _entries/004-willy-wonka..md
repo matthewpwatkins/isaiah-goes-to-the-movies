@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: Willy Wonka and the Chocolate Factory
 img: https://posters.movieposterdb.com/12_06/1971/67992/l_67992_66ade337.jpg
 ---

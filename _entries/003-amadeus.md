@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: Adamdeus
 img: https://posters.movieposterdb.com/09_12/1984/86879/l_86879_a9089219.jpg
 ---

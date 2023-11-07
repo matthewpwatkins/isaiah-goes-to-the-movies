@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: Groundhog Day
 img: https://posters.movieposterdb.com/07_10/1993/107048/s_107048_9590ee1c.jpg
 ---

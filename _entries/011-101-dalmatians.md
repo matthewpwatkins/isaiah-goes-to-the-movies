@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: 101 Dalmatians
 img: https://posters.movieposterdb.com/10_04/1961/55254/l_55254_ee535219.jpg
 ---

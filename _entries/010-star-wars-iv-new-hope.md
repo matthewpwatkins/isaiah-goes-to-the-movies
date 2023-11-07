@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: "Star Wars IV: A New Hope"
 img: https://posters.movieposterdb.com/21_01/1977/76759/s_76759_980f63c8.jpg
 ---

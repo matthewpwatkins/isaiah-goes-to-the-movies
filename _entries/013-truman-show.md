@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: The Truman Show
 img: https://posters.movieposterdb.com/13_10/1998/120382/s_120382_78b61b5e.jpg
 ---

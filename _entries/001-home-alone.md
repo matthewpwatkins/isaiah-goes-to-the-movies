@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: Home Alone
 img: https://posters.movieposterdb.com/15_12/1990/99785/l_99785_a7ec13a6.jpg
 ---

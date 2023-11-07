@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: The Three Amigos
 img: https://posters.movieposterdb.com/08_07/1986/92086/l_92086_e90cd0ec.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: Enchanted
 img: https://posters.movieposterdb.com/07_11/2007/461770/l_461770_70723502.jpg
 ---

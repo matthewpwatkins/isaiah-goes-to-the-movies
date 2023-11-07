@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: The Nightmare Before Christmas
 img: https://posters.movieposterdb.com/08_02/1993/107688/l_107688_588d0b6b.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-type: movie-plot
+type: movie
 title: Toy Story
 img: https://posters.movieposterdb.com/13_05/1995/114709/l_114709_6645f9fc.jpg
 ---

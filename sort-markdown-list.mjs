@@ -10,7 +10,8 @@ const rl = readline.createInterface({
 const alphanumericComparison = (a, b) => {
   return a
     .replace(alphanumericRegex, "")
-    .localeCompare(b.replace(alphanumericRegex, ""));
+    .toLowerCase()
+    .localeCompare(b.toLowerCase().replace(alphanumericRegex, ""));
 };
 
 const readLines = () => {
