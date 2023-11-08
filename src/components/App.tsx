@@ -36,6 +36,7 @@ function App() {
             fluid
             alt="Isaiah Goes to the Movies"
             className="mb-3 mb-md-0"
+            loading="lazy"
           />
         </Col>
         <Col className="px-3">

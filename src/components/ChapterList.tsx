@@ -34,6 +34,7 @@ function ChapterList(props: ChapterListProps) {
                 fluid
                 rounded
                 className="object-fit-fill"
+                loading="lazy"
               />
             </Ratio>
           </Link>
