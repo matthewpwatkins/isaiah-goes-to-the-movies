@@ -36,7 +36,7 @@ const downloadFile = async (url, destinationFilePath) => {
   });
 };
 
-const siteMap = ['https://isaiahgoestothemovies.com'];
+const siteMap = ["https://isaiahgoestothemovies.com"];
 siteMap.push(`${siteMap[0]}/sitemap.txt`);
 const chapterListings = [];
 for (const fileName of await fsAsync.readdir(SRC_ENTRIES_FOLDER)) {
@@ -45,7 +45,10 @@ for (const fileName of await fsAsync.readdir(SRC_ENTRIES_FOLDER)) {
   const numberID = fileName.split("-")[0];
   siteMap.push(`${siteMap[0]}/chapters/${numberID}`);
   const chapter = parseChapter(numberID, entryMarkdown);
-  await fsAsync.copyFile(sourceFilePath, path.join(DST_CHAPTERS_FOLDER, numberID));
+  await fsAsync.copyFile(
+    sourceFilePath,
+    path.join(DST_CHAPTERS_FOLDER, numberID)
+  );
   const entryImageDestinationFilePath = path.join(
     DST_CHAPTER_IMAGES_FOLDER,
     `${numberID}.jpg`
@@ -57,8 +60,11 @@ for (const fileName of await fsAsync.readdir(SRC_ENTRIES_FOLDER)) {
   chapterListings.push(chapter.heading);
 }
 
-await fsAsync.writeFile(DST_CHAPTER_LISTINGS_FILE_PATH, JSON.stringify(chapterListings));
+await fsAsync.writeFile(
+  DST_CHAPTER_LISTINGS_FILE_PATH,
+  JSON.stringify(chapterListings)
+);
 console.log(`Done writing index. Size: ${chapterListings.length}`);
 
-await fsAsync.writeFile(DST_SITEMAP_FILE_PATH, siteMap.join('\n') + '\n');
-console.log('Done writing sitemap');
+await fsAsync.writeFile(DST_SITEMAP_FILE_PATH, siteMap.join("\n") + "\n");
+console.log("Done writing sitemap");

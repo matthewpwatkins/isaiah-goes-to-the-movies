@@ -104,6 +104,7 @@
 - Gods must be crazy, The
 - Gone with the Wind
 - Goofy Movie
+- Gravity
 - Greatest Showman
 - Great Mouse Detective
 - Grinch
@@ -154,6 +155,7 @@
 - Jurassic Park
 - Kindergarten Cop
 - Kung Fu Panda
+- La La Land
 - Land Before Time
 - Lego Movie
 - Les Mierables
@@ -201,6 +203,7 @@
 - Pacific Rim
 - Pacifier
 - Pagemaster
+- Parent Trap
 - Passengers
 - Paul Blart Mall Cop
 - Penguins of Madagascar
@@ -255,6 +258,7 @@
 - Swan Princess
 - Sword in the Stone
 - Tarzan
+- Ten Commandments
 - Terminal, The
 - Thor
 - ~~Three Amigos, The~~
