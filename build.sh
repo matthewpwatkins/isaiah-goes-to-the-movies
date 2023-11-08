@@ -1,1 +1,1 @@
-bash build-chapters.sh && npm run build
+bash pre-build.sh && npm run build

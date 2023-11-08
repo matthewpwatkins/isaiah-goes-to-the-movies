@@ -6,7 +6,7 @@
     {
       "label": "Build chapters",
       "type": "shell",
-      "command": "bash build-chapters.sh",
+      "command": "bash pre-build.sh",
       "problemMatcher": []
     }
   ]

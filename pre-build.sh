@@ -1,3 +1,3 @@
 tsc ./src/util/ChapterParser.ts \
-&& node ./build-chapters.mjs \
+&& node ./pre-build.mjs \
 && rm ./src/util/ChapterParser.js

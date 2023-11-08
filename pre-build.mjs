@@ -5,15 +5,19 @@ import { parseChapter } from "./src/util/ChapterParser.js";
 import https from "https";
 
 const SRC_ENTRIES_FOLDER = "./_chapters";
-const DST_DATA_FOLDER = path.join("./public", "data");
-const DST_API_FOLDER = path.join(DST_DATA_FOLDER, "chapters");
-const DST_ENTRY_IMAGE_FOLDER = path.join(DST_DATA_FOLDER, "chapter-images");
-const ENTRY_INDEX_FILE_PATH = path.join(DST_API_FOLDER, "_list");
+const PUBLIC_FOLDER = "./public";
+const DST_DATA_FOLDER = path.join(PUBLIC_FOLDER, "data");
+const DST_CHAPTERS_FOLDER = path.join(DST_DATA_FOLDER, "chapters");
+const DST_CHAPTER_IMAGES_FOLDER = path.join(DST_DATA_FOLDER, "chapter-images");
+const DST_CHAPTER_LISTINGS_FILE_PATH = path.join(DST_CHAPTERS_FOLDER, "_list");
+const DST_SITEMAP_FILE_PATH = path.join(PUBLIC_FOLDER, "sitemap.txt");
 
+// Wipe out existing pre-build assets
 await fsAsync.rm(DST_DATA_FOLDER, { recursive: true, force: true });
+await fsAsync.rm(DST_SITEMAP_FILE_PATH, { force: true });
 await fsAsync.mkdir(DST_DATA_FOLDER);
-await fsAsync.mkdir(DST_API_FOLDER);
-await fsAsync.mkdir(DST_ENTRY_IMAGE_FOLDER);
+await fsAsync.mkdir(DST_CHAPTERS_FOLDER);
+await fsAsync.mkdir(DST_CHAPTER_IMAGES_FOLDER);
 
 const downloadFile = async (url, destinationFilePath) => {
   return new Promise((resolve, reject) => {
@@ -32,16 +36,19 @@ const downloadFile = async (url, destinationFilePath) => {
   });
 };
 
+const siteMap = ['https://isaiahgoestothemovies.com'];
+siteMap.push(`${siteMap[0]}/sitemap.txt`);
 const chapterListings = [];
 for (const fileName of await fsAsync.readdir(SRC_ENTRIES_FOLDER)) {
   const sourceFilePath = path.join(SRC_ENTRIES_FOLDER, fileName);
   const entryMarkdown = await fsAsync.readFile(sourceFilePath, "utf8");
-  const secretID = fileName.split("-")[0];
-  const chapter = parseChapter(secretID, entryMarkdown);
-  await fsAsync.copyFile(sourceFilePath, path.join(DST_API_FOLDER, secretID));
+  const numberID = fileName.split("-")[0];
+  siteMap.push(`${siteMap[0]}/chapters/${numberID}`);
+  const chapter = parseChapter(numberID, entryMarkdown);
+  await fsAsync.copyFile(sourceFilePath, path.join(DST_CHAPTERS_FOLDER, numberID));
   const entryImageDestinationFilePath = path.join(
-    DST_ENTRY_IMAGE_FOLDER,
-    `${secretID}.jpg`
+    DST_CHAPTER_IMAGES_FOLDER,
+    `${numberID}.jpg`
   );
   console.log(
     `Downloading ${chapter.heading.imgSrc} => ${entryImageDestinationFilePath}`
@@ -50,6 +57,8 @@ for (const fileName of await fsAsync.readdir(SRC_ENTRIES_FOLDER)) {
   chapterListings.push(chapter.heading);
 }
 
-await fsAsync.writeFile(ENTRY_INDEX_FILE_PATH, JSON.stringify(chapterListings));
-
+await fsAsync.writeFile(DST_CHAPTER_LISTINGS_FILE_PATH, JSON.stringify(chapterListings));
 console.log(`Done writing index. Size: ${chapterListings.length}`);
+
+await fsAsync.writeFile(DST_SITEMAP_FILE_PATH, siteMap.join('\n') + '\n');
+console.log('Done writing sitemap');

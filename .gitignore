@@ -133,3 +133,4 @@ dist
 build
 src/**/*.js
 public/data
+public/sitemap.txt
