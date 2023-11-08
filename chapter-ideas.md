@@ -30,7 +30,6 @@
 - Bean (Mr.)
 - Beauty and the Beast
 - Bedtime Stories
-- Benchawarmers
 - Benchwarmers
 - Benjamin Button
 - Beverly Hillbillies
