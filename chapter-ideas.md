@@ -7,10 +7,12 @@
 - AI: Artificial Intelligence
 - Aladdin
 - Alice in Wonderland
+- Alone
 - Alvin and the Chipmunks
 - ~~Amadeus~~
 - Anastasia
 - Anchorman
+- Andor
 - Anger Management
 - Angry Birds
 - Ant-Man
@@ -100,6 +102,7 @@
 - Galaxy Quest
 - Get Smart
 - Ghostbusters
+- Gilligan's Island
 - Gnomeo and Juliet
 - Gods must be crazy, The
 - Gone with the Wind
@@ -124,6 +127,7 @@
 - Hocus Pocus
 - Holes
 - ~~Home Alone~~
+- Home Improvement
 - Homeward Bound
 - Honey, I Shrunk the Kids
 - Hook
@@ -134,6 +138,7 @@
 - Hunt for Red October
 - I can Only Imagine
 - Ice Age
+- I Love Lucy
 - Imitation Game
 - Inception
 - Incredibles
@@ -166,6 +171,7 @@
 - Little Rascals
 - Lord of the Rings
 - Luca
+- Mandalorian
 - Man who knew too little
 - Martian
 - Mary Poppins
@@ -174,10 +180,10 @@
 - Men in Black
 - Mighty Ducks
 - Miss Congeniality
-- Mission: Impossible
 - Mission Impossible
 - Moana
 - Mobsters and Mormons
+- Monk
 - Monsters Inc
 - Monty Python
 - Mr. Mom
@@ -187,14 +193,12 @@
 - Mulan
 - Muppets Christmas Carol
 - My Big Fat Greek Wedding
-- My Bigt Fat Greek Wedding
 - My Fair Lady
 - Nacho Libre
 - Napoleon Dynamite
 - National Treasure
 - Night at the Museum
 - ~~Nightmare Before Christmas~~
-- Notebook
 - Notebook, The
 - Now You See Me
 - Oliver and Company
@@ -221,6 +225,7 @@
 - Princess Bride
 - Princess Diaries
 - Proposal
+- Psych
 - Puss in Boots (1 and 2)
 - Quiet Place
 - Radio
@@ -278,6 +283,7 @@
 - Up
 - Walk to Remember
 - Wall-E
+- WandaVision
 - War Games
 - We Bought a Zoo
 - What About Bob?
@@ -293,3 +299,4 @@
 - Year Without a Santa Claus
 - Yesterday
 - Zootopia
+- Office, The

@@ -1,5 +1,5 @@
 ---
-type: movie-moment
+type: movie moment
 title: 20th Century Fox Intro
 imgSrc: https://posters.movieposterdb.com/23_03/2014/10399952/l_la-fabuleuse-histoire-des-studios-hollywoodiens-20th-century-fox-movie-poster_71be69cb.jpg
 ---

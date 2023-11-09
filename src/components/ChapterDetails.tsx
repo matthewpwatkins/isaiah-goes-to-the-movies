@@ -60,7 +60,7 @@ function ChapterDetails() {
         })}
       >
         <Button size="lg" onClick={showAnswer}>
-          What's Isaiah talking about?
+          What {chapter.heading.type} is Isaiah talking about?
         </Button>
       </div>
       <div className={classNames({ "d-none": !answerIsShown })}>
