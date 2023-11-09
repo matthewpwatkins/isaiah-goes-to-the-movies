@@ -1,4 +1,5 @@
-/entries/*                    /chapters/:splat 301
+/sitemap                      /sitemap.xml                301
+/entries/*                    /chapters/:splat            301
 
 # Let React handle chapters routing
-/chapters/*                   /index.html 200
+/chapters/*                   /index.html                 200

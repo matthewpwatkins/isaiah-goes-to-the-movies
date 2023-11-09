@@ -134,3 +134,4 @@ build
 src/**/*.js
 public/data
 public/sitemap.txt
+public/sitemap.xml
