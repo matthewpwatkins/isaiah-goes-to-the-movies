@@ -40,6 +40,7 @@ function App() {
           />
         </Col>
         <Col className="px-3">
+          <h1 className="display-2">Isaiah Goes to the Movies</h1>
           <p className="lead">
             Isaiah is difficult to understand sometimes. Okay,{" "}
             <em>all the time</em>. He uses heavy symbolism, jumps back and forth
@@ -59,7 +60,7 @@ function App() {
           </p>
         </Col>
       </Row>
-      <h2 className="display-2 text-center">Chapters</h2>
+      <h2 className="display-3 text-center">Chapters</h2>
       <ChapterList
         chapterHeadings={chapterHeadings}
         className={classNames({ "d-none": !chapterHeadings?.length })}
