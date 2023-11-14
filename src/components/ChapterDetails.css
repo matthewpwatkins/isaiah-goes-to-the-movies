@@ -14,10 +14,28 @@
   font-weight: lighter;
 }
 
-.biblical-text p:before {
+.biblical-text > p:before {
   counter-increment: section;
   font-weight: bold;
   font-size: 1rem;
   color: #502a05;
   content: "" counter(section) ". ";
+}
+
+a[data-footnote-backref] {
+  display: none;
+}
+
+.footnotes {
+  padding: 1rem;
+  border-top: 1px solid #502a05;
+  font-size: 1rem;
+}
+
+.footnotes ol {
+  padding-left: 0;
+}
+
+.footnotes p  {
+  margin-bottom: 0;
 }
