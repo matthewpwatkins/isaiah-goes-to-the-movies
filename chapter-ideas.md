@@ -173,7 +173,7 @@
 - Luca
 - Mandalorian
 - Man who knew too little
-- Martian
+- Martian, The
 - Mary Poppins
 - Meet the RObinsons
 - Megamind
@@ -208,7 +208,6 @@
 - Pacifier
 - Pagemaster
 - Parent Trap
-- Passengers
 - Paul Blart Mall Cop
 - Penguins of Madagascar
 - Peter Pan
