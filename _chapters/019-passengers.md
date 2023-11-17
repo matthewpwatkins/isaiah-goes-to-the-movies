@@ -10,11 +10,11 @@ But I will call upon my servant Jacob and shall say unto him, Awake, awake; put 
 
 But it is not good for man to be alone[^gen-2-18]. And my servant shall take unto him a fair maiden, and they twain shall be wanderers in that strange land[^jacob-7-26]. And she shall be full of fury for the sin of my servant against her and shall not be comforted.
 
-Then shall I bring unto them another srevant, and he shall discover unto them the destruction that is come upon the land. Yet he hath not within himself, and shall perish swiftly.
+Then shall I bring my prophet unto them, and he shall reveal unto them the destruction that is come upon the land. Yet he hath not within himself, and shall perish swiftly.
 
-And Jacob shall repent of his sin, and shall seek to recover the house of Israel. And he shall submit to the indignation of the Lord and he shall suffer a great noise, with storm and tempest, and the flame of devouring fire[^isa-29-6].
+And Jacob shall repent of his sin, and he shall redeem Israel. And he shall submit to the indignation of the Lord. He shall suffer a great noise, with storm and tempest, and the flame of devouring fire[^isa-29-6].
 
-And he shall be laid in his grave, but then shall the Lord work a miracle upon him, and he shall be healed. Yet still my servant is not known unto the house of Israel, for he shall die before they know him.
+And the glory of the Lord nigh consumeth him. And he shall be laid in his grave, but then shall the Lord work a miracle upon him, and he shall be healed. Yet still my servant is not known unto the house of Israel, for he shall die before they know him.
 
 But I shall command the maiden to write and promise unto her: shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.[^isa-29-4]
 
