@@ -20,6 +20,7 @@ But I shall command the maiden to write and promise unto her: shalt speak out of
 
 [^isa-29-10]: Isa. 29:10
 [^isa-49-21]: Isa 49:21
+[^isa-5-8]: Isa. 5:8
 [^isa-52-1]: Isa. 52:1
 [^gen-2-18]: Gen. 2:18
 [^jacob-7-26]: Jacob 7:26
