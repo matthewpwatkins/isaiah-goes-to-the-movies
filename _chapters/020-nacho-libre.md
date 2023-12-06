@@ -8,7 +8,7 @@ Wo unto the mighty ones in Israel, for the wrath of the Lord of Hosts is kindled
 
 And who shall I send to humble the mighty? I will call upon a godly man who despiseth not my people, but pleads for the fatherless. And because he is humble, he shall humble mine enemies saith the Lord.
 
-And he hath no form nor comeliness; and when ye shall see him, there is no beauty that ye should desire him[^isa-53-2]. For he is become as a wild man, he liveth in the desert far from everyany, he feeds in the nests of raptors.
+And he hath no form nor comeliness; and when ye shall see him, there is no beauty that ye should desire him[^isa-53-2]. For he is become as a wild man, he liveth in the desert far from all people, and he feeds in the nests of raptors.
 
 And I shall raise up an Aaron unto him, and they twain shall vex the wicked of my people. But they shall be lifted up in the pride of their eyes. Yea, my servant shall rend his garments with his strength and his spokesman shall trust in his learning.
 
