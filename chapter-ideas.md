@@ -192,7 +192,7 @@
 - Mr. Smith Goes to Washington
 - Mulan
 - Muppets Christmas Carol
-- My Big Fat Greek Wedding
+- ~~My Big Fat Greek Wedding~~
 - My Fair Lady
 - Nacho Libre
 - Napoleon Dynamite
@@ -241,7 +241,7 @@
 - Rudy
 - Sabrina
 - Sandlot
-- Santa Clause, The
+- ~~Santa Clause, The~~
 - Shazam
 - Shrek
 - Sing
