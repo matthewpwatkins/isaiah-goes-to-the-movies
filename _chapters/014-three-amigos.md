@@ -12,7 +12,7 @@ And the soldiers came, and they spoke valiantly. And they mocked Moab as a dog t
 
 And Moab pitted himself against Israel and the virgin was carried into the wilderness by the dragon. And Israel mourned for her fair daughter and would not be comforted.
 
-And the Lord placed in the bowels of the soliders compassion and power. And they did go forth boldly unto the land of the Moabites and did fall upon them from the sky, and they did smite them with stones, and piercing, thundering fire did come out of their hands.
+And the Lord placed in the bowels of the soldiers compassion and power. And they did go forth boldly unto the land of the Moabites and did fall upon them from the sky, and they did smite them with stones, and piercing, thundering fire did come out of their hands.
 
 And they mounted upon a great eagle and returned to Israel. And they made in a single day a great army of the weak and simple of the people, mighty soldiers like unto themselves.
 
