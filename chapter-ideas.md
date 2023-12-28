@@ -188,7 +188,7 @@
 - Monty Python
 - Mr. Mom
 - Mr. Peacbody and Sherman
-- Mrs. Doubtfire
+- ~~Mrs. Doubtfire~~
 - Mr. Smith Goes to Washington
 - Mulan
 - Muppets Christmas Carol
@@ -229,7 +229,7 @@
 - Quiet Place
 - Radio
 - Ratatouille
-- Raya and the Last Drage
+- Raya and the Last Dragon
 - Ready Player One
 - Remember the Titans
 - Rescuers
