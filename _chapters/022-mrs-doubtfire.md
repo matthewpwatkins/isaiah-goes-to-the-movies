@@ -6,7 +6,7 @@ imgSrc: https://posters.movieposterdb.com/12_05/1993/107614/l_107614_25ee7f3d.jp
 
 My heart has hardened against my people, O house of Israel. Thou art as a man who is lightminded and a deceiver, for the birds do speak his voice, and his children are ruined by his mirthmaking.
 
-And the Lord sayeth unto him: "Therefore hear now this, thou that art given to pleasures, that dwellest carelessly, that sayest in thine heart, I shall not sit as a widow, neither shall I know the loss of children: But these two things shall come to thee in a moment in one day, the loss of children,"[^isa-47-8-9] and thy wife be removed from thee. Yea, in that day shalt thou mourn and say "I have lost my children, and am desolate, a captive, and removing to and fro." [^isa-49-21]
+And the Lord saith unto him: "Therefore hear now this, thou that art given to pleasures, that dwellest carelessly, that sayest in thine heart, I shall not sit as a widow, neither shall I know the loss of children: But these two things shall come to thee in a moment in one day, the loss of children,"[^isa-47-8-9] and thy wife be removed from thee. Yea, in that day shalt thou mourn and say "I have lost my children, and am desolate, a captive, and removing to and fro." [^isa-49-21]
 
 But though he mourns, he is a deceiver still, for he weareth the garment which pertaineth not to him, for it is an abomination unto the Lord [^deut-22-5]. And he disfigures his countenance insomuch that he is not known among my people, and he robs his own household.
 
