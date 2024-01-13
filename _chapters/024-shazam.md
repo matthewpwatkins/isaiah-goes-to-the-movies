@@ -8,9 +8,9 @@ Wo unto thee, O house of Israel. Wo unto the inhabitants of the whole earth for 
 
 Who shall deliver thee from the wrath that is to come?[^1-thess-1-10] His hand is stretched out, and who shall turn it back?[^isa-14-27] Behold, I shall send my prophet after the deliverers of Israel, and he shall fish them and shall hunt them[^jer-16-16] and shall bring them unto mine house and shall try them. Yet shall he be discouraged, for none are worthy vessels of my name.
 
-But I will raise up a tender plant, and a root out of a dry ground, and who shall declare his generation?[^isa-53-2-8] But my prophet looketh not on his countenance, or on the height of his stature, but on the heart.[^1-sam-16-7] Because the lad defendeth the lame, the Lord shall love him, and he shall be the champion of Israel.
+But I will raise up a tender plant, and a root out of a dry ground, and who shall declare his generation?[^isa-53-2-8] But my prophet looketh not on his countenance, or on the height of his stature, but on the heart.[^1-sam-16-7] Because the lad defendeth the lame, the Lord shall love him, and his power shall he put upon him suddenly, as lightning from heaven, and he shall be the champion of my people, Israel.
 
-And he shall call his brothers unto him and together they shall save my people, O house of Israel. And all the earth shall inquire after their names, and though they be not league with the mighty ones, they shall sit down with them to meat.
+And he shall call his brothers unto him and together they shall save my people. All the earth shall inquire after their names, and though they be not league with the mighty ones, they shall sit down with them to meat.
 
 [^matt-6-23]: Matt. 6:23
 [^isa-9-19]: Isa. 9:19
