@@ -4,7 +4,7 @@ title: Shazam!
 imgSrc: https://posters.movieposterdb.com/21_08/2019/448115/s_448115_e860b532.jpg
 ---
 
-Wo unto thee, O house of Israel. Wo unto the inhabitants of the whole earth for the evil that is come upon them. For there shall arise great wickedness, a mighty man full of mischief, full of envy, whose eye is evil and his whole body is full of great darkness.[^matt-6-23] He goeth forth, and he spareth not: his own household shall be as the fuel of the fire and he shall spare not his brother.[^isa-9-19]
+Wo unto thee, O house of Israel. Wo unto the inhabitants of the whole earth for the evil that is come upon them. For there shall arise great wickedness, a destroyer full of mischief, full of envy, whose eye is evil and his whole body is full of great darkness.[^matt-6-23] He goeth forth, and he spareth not: his own household shall be as the fuel of the fire and he shall spare not his brother.[^isa-9-19]
 
 Who shall deliver thee from the wrath that is to come?[^1-thess-1-10] His hand is stretched out, and who shall turn it back?[^isa-14-27] Behold, I shall send my prophet after the deliverers of Israel, and he shall fish them and shall hunt them[^jer-16-16] and shall bring them unto mine house and shall try them. Yet shall he be discouraged, for none are worthy vessels of my name.
 
