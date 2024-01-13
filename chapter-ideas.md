@@ -128,7 +128,7 @@
 - Holes
 - ~~Home Alone~~
 - Home Improvement
-- Homeward Bound
+- ~~Homeward Bound~~
 - Honey, I Shrunk the Kids
 - Hook
 - How to Train your Dragon
@@ -242,7 +242,7 @@
 - Sabrina
 - Sandlot
 - ~~Santa Clause, The~~
-- Shazam
+- ~~Shazam!~~
 - Shrek
 - Sing
 - Singin' in the Rain
