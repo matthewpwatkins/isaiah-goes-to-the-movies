@@ -26,7 +26,11 @@
       name="description"
       content="Isaiah is describing modern movies to his ancient audience. But he's being cryptic, as always. Can you guess which movie he's describing?"
     />
-    <link rel="preload" as="image" href="%PUBLIC_URL%/isaiah-goes-to-the-movies.jpg" />
+    <link
+      rel="preload"
+      as="image"
+      href="%PUBLIC_URL%/isaiah-goes-to-the-movies.jpg"
+    />
     <title>Isaiah Goes to the Movies</title>
   </head>
 
@@ -44,7 +48,26 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
     <!-- start webpushr code -->
-    <script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.async=1;js.src = "https://cdn.webpushr.com/app.min.js";fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));webpushr('setup',{'key':'BDAcF4ELl66FpqIavVHLQfHY0tloEW6Ik-GKqhsP7_dS8kCkdhpMD8OdgDdRR_oPCWQ9sl2duNYNo1ccin0Op-4' });</script>
+    <script>
+      (function (w, d, s, id) {
+        if (typeof w.webpushr !== "undefined") return;
+        w.webpushr =
+          w.webpushr ||
+          function () {
+            (w.webpushr.q = w.webpushr.q || []).push(arguments);
+          };
+        var js,
+          fjs = d.getElementsByTagName(s)[0];
+        js = d.createElement(s);
+        js.id = id;
+        js.async = 1;
+        js.src = "https://cdn.webpushr.com/app.min.js";
+        fjs.parentNode.appendChild(js);
+      })(window, document, "script", "webpushr-jssdk");
+      webpushr("setup", {
+        key: "BDAcF4ELl66FpqIavVHLQfHY0tloEW6Ik-GKqhsP7_dS8kCkdhpMD8OdgDdRR_oPCWQ9sl2duNYNo1ccin0Op-4",
+      });
+    </script>
     <!-- end webpushr code -->
   </body>
 </html>

@@ -6,7 +6,7 @@ export interface InitPageProps {
 
 export function initPage(props: InitPageProps) {
   document.title =
-    (props.pageTitle ? `${props.pageTitle} - ` : "")
-    + "Isaiah Goes to the Movies";
+    (props.pageTitle ? `${props.pageTitle} - ` : "") +
+    "Isaiah Goes to the Movies";
   reportPageHit();
 }

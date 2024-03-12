@@ -71,12 +71,15 @@ await fsAsync.writeFile(
 console.log(`Done writing index. Size: ${chapterListings.length}`);
 
 await fsAsync.writeFile(DST_SITEMAP_TXT_FILE_PATH, siteMap.join("\n") + "\n");
-await fsAsync.writeFile(DST_SITEMAP_XML_FILE_PATH, `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+await fsAsync.writeFile(
+  DST_SITEMAP_XML_FILE_PATH,
+  `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>${siteMap.join(`</loc>
   </url>
   <url>
     <loc>`)}</loc>
   </url>
-</urlset>`);
+</urlset>`
+);
 console.log("Done writing sitemaps");

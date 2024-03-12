@@ -51,7 +51,9 @@ function ChapterDetails() {
       </h2>
       <Card border="secondary" className="p-5 parchment my-4">
         <div className="biblical-text">
-          <Markdown remarkPlugins={[remarkGfm]}>{chapter.contentMarkdown}</Markdown>
+          <Markdown remarkPlugins={[remarkGfm]}>
+            {chapter.contentMarkdown}
+          </Markdown>
         </div>
       </Card>
 
