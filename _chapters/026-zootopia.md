@@ -4,7 +4,7 @@ title: Zootopia
 imgSrc: https://posters.movieposterdb.com/22_10/2016/2948356/s_zootopia-movie-poster_8e09d49a.jpg
 ---
 
-Behold I will make Zion my jewel and will remove all enmity from her city. But a deceiver entereth in among them, a wolf in sheep's clothing, who seeketh to destroy my people, O Zion my beloved.
+Behold I will make Zion my jewel and I will remove all enmity from her city. But a deceiver entereth in among them, a wolf in sheep's clothing, who seeketh to destroy my people, O Zion my beloved.
 
 Yet I have not forgotten thee, for I shall raise up a maiden strong a fast, and she shall deliver my people. And she shall take unto her a mighty helper and shall purify his heart before me, and they shall search hither and thither for the deceiver.
 
