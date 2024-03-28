@@ -78,7 +78,7 @@
 - Elf
 - ~~Emperor's New Groove~~
 - ~~Enchanted~~
-- Ender's Game
+- ~~Ender's Game~~
 - ET
 - Evan Almighty
 - Extremely Loud and Incredibly Close
@@ -298,4 +298,4 @@
 - X-Men
 - Year Without a Santa Claus
 - Yesterday
-- Zootopia
+- ~~Zootopia~~
