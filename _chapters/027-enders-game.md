@@ -12,6 +12,6 @@ But thy dreams shall distress thee. Giants shalt thou consume and behold thine e
 
 Yet though thou shalt smite the Gentiles, thou shalt not find peace until they also be recovered at thy hand.
 
-[^isa-49-1]: Isaish 49:1
+[^isa-49-1]: Isaiah 49:1
 [^dc-35-9]: D&C 35:9
-[^isa-40-22]: Isaish 40:22
+[^isa-40-22]: Isaiah 40:22

@@ -69,6 +69,7 @@
 - Da Vinci Code
 - Dead Poets Society
 - Deep Impact
+- Dick Van Dyke Show
 - Doctor Strange
 - Dolittle
 - Dumb and Dumber
@@ -102,7 +103,7 @@
 - Galaxy Quest
 - Get Smart
 - Ghostbusters
-- Gilligan's Island
+- ~~Gilligan's Island~~
 - Gnomeo and Juliet
 - Gods must be crazy, The
 - Gone with the Wind
